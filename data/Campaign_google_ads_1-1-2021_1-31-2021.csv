@@ -1,0 +1,1001 @@
+Campaign_ID,Company,Campaign_Type,Target_Audience,Duration,Channel_Used,Conversion_Rate,Acquisition_Cost,ROI,Location,Language,Clicks,Impressions,Engagement_Score,Customer_Segment,Date
+133848,Meedoo,Search,Women 35-44,15 days,Instagram,0.11,Dollar,4.59,Harbour Breton,New Zealand Sign Language,381,5908,7,Outdoor Adventurers,1/9/2021
+135437,Quimba,Search,Men 25-34,45 days,Youtube,0.07,Rupiah,5.39,Koblain,Ndebele,594,7080,8,Health & Wellness,1/29/2021
+162274,Jabbercube,Search,All Ages,15 days,Instagram,0.11,Koruna,5.77,Milotice,Burmese,628,5422,6,Tech Enthusiasts,1/22/2021
+167697,Yombu,Influencer,Men 25-34,45 days,Email,0.11,Yuan Renminbi,3.35,Jiucaizhuang,Kannada,690,6484,10,Tech Enthusiasts,1/17/2021
+142220,Kwilith,Display,Women 35-44,30 days,Facebook,0.13,Euro,4.36,La Valette-du-Var,Thai,943,5054,10,Tech Enthusiasts,1/1/2021
+179422,Zava,Email,Men 25-34,45 days,Email,0.05,Yuan Renminbi,2.81,Huogezhuang,Tajik,464,7296,5,Outdoor Adventurers,1/10/2021
+124161,Oyonder,Email,Men 18-24,45 days,Google Ads,0.03,Rupiah,3.94,Bagorejo,Oriya,395,4668,6,Fashionistas,1/18/2021
+132473,Devpulse,Email,Women 35-44,60 days,Website,0.08,Krona,6.61,Hyltebruk,Japanese,848,1765,9,Foodies,1/7/2021
+95763,Edgeclub,Email,Women 35-44,15 days,Google Ads,0.03,Zloty,4.63,Wilcza,Albanian,566,7337,5,Fashionistas,1/3/2021
+176209,Twitterbeat,Display,Women 25-34,15 days,Google Ads,0.03,Yuan Renminbi,3.25,Qiaotou,Pashto,631,6793,6,Fashionistas,1/6/2021
+75362,Yombu,Display,Men 18-24,30 days,Facebook,0.08,Ruble,3.78,Krutinka,Kashmiri,870,7328,3,Foodies,1/20/2021
+182560,Divavu,Search,All Ages,60 days,Youtube,0.06,Euro,6.93,Freiburg im Breisgau,Lithuanian,554,5235,9,Tech Enthusiasts,1/16/2021
+140168,Digitube,Influencer,Women 35-44,15 days,Website,0.06,Rupiah,6.85,Genteng,Kyrgyz,433,2352,4,Foodies,1/15/2021
+102479,Tagopia,Email,Women 35-44,15 days,Instagram,0.03,Peso,6.05,Vista Hermosa,Tsonga,692,2055,9,Tech Enthusiasts,1/23/2021
+160021,Skipstorm,Search,Women 25-34,30 days,Facebook,0.03,Yuan Renminbi,4.19,Fengchuan,Icelandic,364,1953,7,Outdoor Adventurers,1/14/2021
+112446,InnoZ,Influencer,Men 25-34,60 days,Email,0.11,Ruble,6.45,Rybnaya Sloboda,Kashmiri,366,1720,9,Foodies,1/11/2021
+162300,Dynabox,Search,Women 25-34,15 days,Youtube,0.07,Rupiah,6.23,Munduk,Tsonga,440,6728,8,Tech Enthusiasts,1/9/2021
+105337,Ooba,Influencer,All Ages,60 days,Website,0.03,Yuan Renminbi,7.04,Kax,Kazakh,783,6016,7,Outdoor Adventurers,1/21/2021
+104089,Zoonder,Display,Women 35-44,15 days,Youtube,0.12,Yuan Renminbi,6.35,Haolin,Hebrew,692,3444,9,Foodies,1/8/2021
+129830,Camido,Display,Men 18-24,45 days,Website,0.08,Lev,3.15,Radomir,Kashmiri,605,6774,9,Tech Enthusiasts,1/10/2021
+176976,Fadeo,Display,All Ages,45 days,Email,0.03,Peso,5.55,Giraldo,Kazakh,755,5904,9,Fashionistas,1/18/2021
+92285,Skiba,Influencer,Men 18-24,60 days,Facebook,0.07,Rupiah,3.16,Suwalan,Lao,830,8314,9,Tech Enthusiasts,1/9/2021
+118272,Realbuzz,Influencer,All Ages,60 days,Youtube,0.11,Sol,3.51,Urasqui,Zulu,830,3478,10,Outdoor Adventurers,1/20/2021
+81390,Linkbuzz,Display,Men 18-24,30 days,Youtube,0.06,Peso,3.15,Langob,Tetum,751,6183,5,Fashionistas,1/23/2021
+140750,Thoughtbeat,Display,Men 25-34,45 days,Website,0.07,Koruna,4.92,Holýšov,Romanian,874,2754,7,Health & Wellness,1/20/2021
+150760,Abatz,Email,Women 35-44,30 days,Website,0.1,Yuan Renminbi,5.3,Yongping,Northern Sotho,960,7143,5,Outdoor Adventurers,1/1/2021
+144659,Bubbletube,Display,All Ages,15 days,Google Ads,0.11,Rupiah,3.34,Benger,Kyrgyz,549,4669,3,Outdoor Adventurers,1/28/2021
+90484,Kwimbee,Email,Men 18-24,45 days,Youtube,0.04,Yuan Renminbi,6.08,Yanjiatai,Northern Sotho,942,3427,5,Outdoor Adventurers,1/12/2021
+158574,Trilith,Influencer,All Ages,30 days,Website,0.1,Franc,3.93,Lokossa,Swedish,782,6504,4,Fashionistas,1/25/2021
+86984,Kanoodle,Influencer,Men 25-34,60 days,Website,0.11,Zloty,5.43,Opatowiec,French,501,8005,3,Health & Wellness,1/28/2021
+133203,Youspan,Display,Women 35-44,60 days,Facebook,0.13,Koruna,5.74,Jaroměřice nad Rokytnou,Tamil,965,5535,3,Outdoor Adventurers,1/4/2021
+72379,Abatz,Display,All Ages,60 days,Youtube,0.09,Euro,6.91,Crossmolina,Haitian Creole,488,2992,7,Foodies,1/20/2021
+167553,LiveZ,Email,All Ages,15 days,Google Ads,0.04,Afghani,5.85,Khōst,Kashmiri,746,3833,8,Outdoor Adventurers,1/16/2021
+139103,Browsebug,Search,Women 35-44,60 days,Website,0.12,Rupiah,4.12,Barapas,Assamese,364,8276,10,Foodies,1/8/2021
+171944,Kaymbo,Display,Women 25-34,30 days,Youtube,0.05,Rial,5.94,Al Jamīmah,Hindi,918,5826,4,Fashionistas,1/15/2021
+128315,Skipstorm,Influencer,Women 25-34,15 days,Facebook,0.08,Dinar,2.93,Jevremovac,Dhivehi,706,3574,3,Tech Enthusiasts,1/1/2021
+138046,Realblab,Influencer,Women 35-44,60 days,Google Ads,0.03,Peso,6.25,Bambang,Lithuanian,715,2822,9,Foodies,1/25/2021
+77909,Minyx,Email,All Ages,30 days,Website,0.12,Koruna,4.07,Lešná,Georgian,836,2095,8,Outdoor Adventurers,1/2/2021
+160876,Thoughtblab,Search,Women 25-34,60 days,Email,0.03,Krona,4.48,Söderhamn,Persian,603,8569,3,Outdoor Adventurers,1/26/2021
+92938,Kazio,Search,All Ages,30 days,Facebook,0.13,Peso,2.66,Santa Catalina Norte,Hindi,587,4806,4,Outdoor Adventurers,1/7/2021
+129558,Chatterpoint,Email,All Ages,45 days,Instagram,0.05,Yen,3.02,Kaseda-shirakame,Tswana,966,4140,6,Outdoor Adventurers,1/22/2021
+129552,Eamia,Email,Men 18-24,45 days,Website,0.09,Yuan Renminbi,4.76,Shangcai Zhongxing,Luxembourgish,932,5108,8,Foodies,1/11/2021
+179520,Dabtype,Display,Men 25-34,30 days,Facebook,0.11,Ruble,6.86,Leonidovo,Gujarati,535,2018,9,Health & Wellness,1/25/2021
+180570,Edgepulse,Display,All Ages,30 days,Youtube,0.08,Peso,4.37,Puerto Asís,Moldovan,949,8436,7,Fashionistas,1/14/2021
+155708,Feednation,Influencer,Men 25-34,15 days,Youtube,0.07,Real,4.08,Águas Formosas,Lao,989,7462,9,Foodies,1/29/2021
+116240,Jabberbean,Display,Men 18-24,60 days,Facebook,0.06,Peso,7.28,Parista,Luxembourgish,504,8913,4,Foodies,1/12/2021
+70214,Quimba,Display,Men 18-24,60 days,Youtube,0.12,Rupee,2.79,Fort Abbās,Tswana,462,6579,8,Fashionistas,1/16/2021
+166948,Photolist,Display,Men 25-34,60 days,Email,0.04,Ruble,3.05,Mel’nikovo,Icelandic,490,8708,6,Outdoor Adventurers,1/13/2021
+77550,Jaxbean,Influencer,Women 35-44,45 days,Facebook,0.07,Rupiah,3.44,Cipatujah,Danish,892,7546,4,Tech Enthusiasts,1/6/2021
+172928,Brainsphere,Display,All Ages,15 days,Facebook,0.05,Yuan Renminbi,4.69,Bahaodi,Moldovan,657,5423,3,Health & Wellness,1/13/2021
+164091,Jabberstorm,Search,Women 25-34,30 days,Google Ads,0.02,Euro,4.84,Cergy-Pontoise,Portuguese,732,7871,5,Tech Enthusiasts,1/10/2021
+153928,Brainbox,Influencer,Women 35-44,30 days,Website,0.06,Rupiah,3.55,Banjar Dauhpura,Kannada,621,4778,9,Foodies,1/24/2021
+112349,Wordify,Display,All Ages,45 days,Instagram,0.06,Rupiah,6.65,Cililitan,Croatian,700,5749,7,Foodies,1/3/2021
+131143,Photobean,Email,Women 35-44,30 days,Youtube,0.1,Euro,5.35,Sarrazola,Papiamento,568,2540,5,Fashionistas,1/10/2021
+142687,Skiba,Display,Women 25-34,30 days,Youtube,0.11,Dollar,5.79,Cockburn Town,Armenian,814,2475,7,Tech Enthusiasts,1/2/2021
+93237,Vinte,Influencer,All Ages,15 days,Facebook,0.13,Peso,3.7,Camino Real,Telugu,425,3423,10,Fashionistas,1/20/2021
+132405,Zoombeat,Display,Men 18-24,45 days,Youtube,0.11,Yuan Renminbi,3.34,Jiefu,Lao,495,4817,5,Tech Enthusiasts,1/11/2021
+172244,Youopia,Email,Men 25-34,30 days,Instagram,0.07,Rupiah,7.35,Malo,Macedonian,685,8438,3,Health & Wellness,1/13/2021
+169585,Devpulse,Email,Men 18-24,30 days,Google Ads,0.11,Rupiah,7.49,Rancapanjang,Māori,440,3288,8,Outdoor Adventurers,1/17/2021
+150336,Babbleopia,Display,Women 35-44,45 days,Instagram,0.08,Peso,6.6,Punta Alta,Zulu,721,3755,6,Fashionistas,1/18/2021
+140766,Youtags,Display,Women 25-34,45 days,Instagram,0.06,Ruble,4.94,Tomilino,Persian,870,8323,8,Foodies,1/28/2021
+113050,Ooba,Influencer,Women 35-44,45 days,Instagram,0.08,Rial,5.54,Māwiyah,Yiddish,905,5213,4,Foodies,1/22/2021
+86627,Quinu,Display,Men 18-24,30 days,Google Ads,0.08,Ruble,7.51,Pitkyaranta,Assamese,420,5043,8,Outdoor Adventurers,1/7/2021
+101542,Mycat,Email,Women 25-34,30 days,Email,0.09,Yuan Renminbi,4.26,Huangshui,Tok Pisin,667,7523,4,Health & Wellness,1/4/2021
+158207,Mynte,Display,Men 25-34,45 days,Website,0.06,Baht,7.43,Ta Phraya,Quechua,414,5263,3,Tech Enthusiasts,1/9/2021
+181211,Brainverse,Influencer,Men 25-34,45 days,Facebook,0.09,Zloty,4.57,Baruchowo,Hiri Motu,954,7446,9,Tech Enthusiasts,1/16/2021
+146846,Reallinks,Email,Men 18-24,60 days,Youtube,0.07,Rupiah,2.62,Kramat,Estonian,777,5828,8,Health & Wellness,1/26/2021
+184227,Skajo,Influencer,Men 18-24,45 days,Google Ads,0.03,Krona,4.58,Stockholm,Korean,396,3087,10,Health & Wellness,1/11/2021
+160614,Devpulse,Search,Women 25-34,15 days,Email,0.02,Peso,5.02,La Paz,Czech,933,2148,10,Tech Enthusiasts,1/23/2021
+185692,Quatz,Email,Women 25-34,45 days,Email,0.06,Real,7.39,Alagoinhas,Hebrew,810,2801,10,Tech Enthusiasts,1/21/2021
+85322,Bubbletube,Influencer,Men 18-24,30 days,Youtube,0.03,Rupiah,6.79,Nangger,Croatian,417,3522,4,Tech Enthusiasts,1/15/2021
+160689,Ntag,Display,Women 25-34,45 days,Email,0.11,Dollar,7.1,Cayambe,Portuguese,483,4040,7,Health & Wellness,1/12/2021
+182621,Eadel,Search,Men 25-34,60 days,Website,0.04,Ruble,3.69,Suvorov,Lao,931,4418,9,Outdoor Adventurers,1/22/2021
+70334,Ailane,Search,Men 25-34,30 days,Youtube,0.06,Peso,4.38,San José de Ocoa,Punjabi,673,6791,4,Outdoor Adventurers,1/12/2021
+82601,Avamba,Search,Men 18-24,60 days,Instagram,0.12,Denar,2.46,Šuto Orizare,Bosnian,566,8461,10,Health & Wellness,1/30/2021
+142214,Skajo,Influencer,Women 25-34,45 days,Website,0.11,Peso,4.14,Nuing,Papiamento,576,5591,3,Tech Enthusiasts,1/6/2021
+158832,Avamm,Search,Women 35-44,45 days,Website,0.09,Peso,4.69,Saguday,Tsonga,490,2103,10,Outdoor Adventurers,1/28/2021
+106507,Realblab,Email,Women 25-34,30 days,Youtube,0.08,Hryvnia,4.27,Gradizhsk,Marathi,418,3035,4,Tech Enthusiasts,1/22/2021
+159221,Tagpad,Display,Men 18-24,15 days,Website,0.02,Peso,7.33,Pellegrini,Albanian,396,2408,8,Foodies,1/11/2021
+145678,Roodel,Email,All Ages,30 days,Google Ads,0.07,Dinar,7.22,Apatin,Gagauz,397,7075,3,Outdoor Adventurers,1/2/2021
+106149,Twitterbridge,Email,Men 25-34,45 days,Google Ads,0.08,Ruble,7.4,Vykhino-Zhulebino,Burmese,898,6932,8,Foodies,1/21/2021
+168568,Jetpulse,Influencer,Women 25-34,15 days,Google Ads,0.11,Rupiah,6.16,Tambakan,Malay,749,2553,7,Fashionistas,1/23/2021
+118317,Photobug,Search,Women 25-34,30 days,Google Ads,0.04,Shekel,7.45,Bayt Wazan,Lithuanian,980,4463,10,Fashionistas,1/12/2021
+151140,Katz,Influencer,All Ages,30 days,Email,0.09,Won,2.57,Kwangyang,Icelandic,891,7213,4,Fashionistas,1/6/2021
+132146,Tagfeed,Influencer,All Ages,60 days,Facebook,0.09,Yuan Renminbi,3.24,Huangqiao,Bengali,677,6004,6,Outdoor Adventurers,1/10/2021
+139881,Linkbridge,Display,Men 18-24,60 days,Website,0.05,Real,6.44,Salinas,Kazakh,987,7530,6,Fashionistas,1/10/2021
+128956,Quimba,Influencer,Men 25-34,60 days,Website,0.11,Koruna,5.79,Velké Němčice,Malayalam,860,8609,4,Outdoor Adventurers,1/7/2021
+149698,Zoonoodle,Search,Men 25-34,60 days,Facebook,0.09,Peso,2.72,Villa Dolores,Sotho,965,8988,6,Foodies,1/26/2021
+121235,Centidel,Influencer,Men 25-34,30 days,Facebook,0.07,Yuan Renminbi,3.58,Qibu,Thai,862,8426,9,Fashionistas,1/17/2021
+75622,Ainyx,Email,Men 18-24,15 days,Facebook,0.07,Yen,3.58,Takasaki,Kyrgyz,944,3928,6,Tech Enthusiasts,1/29/2021
+73239,Agivu,Influencer,Men 25-34,15 days,Facebook,0.11,Zloty,7.19,Opatowiec,Spanish,690,6790,8,Tech Enthusiasts,1/21/2021
+151279,Linktype,Email,Men 18-24,45 days,Google Ads,0.1,Lek,4.48,Skënderbegas,Hiri Motu,696,2117,6,Outdoor Adventurers,1/2/2021
+158804,Innojam,Influencer,Men 25-34,60 days,Instagram,0.13,Birr,4.03,Wenjī,Japanese,609,5585,5,Tech Enthusiasts,1/13/2021
+96049,Yata,Display,Women 25-34,30 days,Facebook,0.12,Naira,6.25,Gandi,Fijian,658,1688,8,Health & Wellness,1/16/2021
+111021,InnoZ,Email,Men 18-24,45 days,Instagram,0.07,Dong,7.04,Tân Châu,Arabic,508,7296,9,Foodies,1/15/2021
+78707,Brainverse,Search,Women 25-34,45 days,Youtube,0.11,Euro,7.02,Vessada,German,646,6491,5,Tech Enthusiasts,1/4/2021
+77063,Skinder,Display,Women 35-44,60 days,Google Ads,0.07,Rupee,3.16,Haveliān,Kannada,392,2802,6,Tech Enthusiasts,1/14/2021
+71604,DabZ,Display,Men 18-24,15 days,Google Ads,0.09,Ruble,6.9,Ryazhsk,Tsonga,662,2825,7,Health & Wellness,1/6/2021
+150606,Gabvine,Influencer,All Ages,30 days,Youtube,0.09,Taka,4.03,Gafargaon,Arabic,938,6677,9,Outdoor Adventurers,1/12/2021
+101182,Kwideo,Display,Men 25-34,30 days,Facebook,0.11,Peso,7.38,Anguil,Romanian,942,2582,8,Fashionistas,1/17/2021
+138304,Riffpedia,Influencer,Women 25-34,30 days,Facebook,0.11,Dollar,4.29,Los Angeles,Kurdish,448,4071,6,Health & Wellness,1/23/2021
+97390,Skiptube,Display,All Ages,45 days,Email,0.07,Dinar,2.94,Gakovo,Fijian,485,5512,9,Foodies,1/24/2021
+90424,Dynabox,Display,Women 25-34,45 days,Youtube,0.05,Yuan Renminbi,4.83,Laoxingchang,French,555,2329,7,Fashionistas,1/2/2021
+140176,Gigaclub,Display,All Ages,60 days,Email,0.03,Peso,5.18,Tiguion,Hebrew,712,2427,4,Health & Wellness,1/21/2021
+134265,Quimm,Search,Men 18-24,30 days,Facebook,0.05,Yuan Renminbi,4.46,Jiuxi,Japanese,407,5579,8,Fashionistas,1/17/2021
+132644,Thoughtmix,Email,Women 25-34,45 days,Facebook,0.09,Rupiah,2.74,Gerdu,Ndebele,416,5601,9,Outdoor Adventurers,1/28/2021
+163883,Quire,Email,All Ages,45 days,Google Ads,0.05,Yuan Renminbi,4.88,Minggang,Malagasy,951,7945,10,Fashionistas,1/24/2021
+157173,Brightbean,Search,Women 25-34,30 days,Instagram,0.1,Rupiah,7.13,Taman,Hungarian,869,4725,9,Tech Enthusiasts,1/9/2021
+161990,Browsecat,Search,Men 25-34,45 days,Website,0.12,Yuan Renminbi,6.31,Xiaoyue,Maltese,806,5113,4,Health & Wellness,1/11/2021
+130272,Thoughtworks,Display,Men 18-24,15 days,Instagram,0.07,Rupiah,3.95,Banjar Kawan,Latvian,947,7007,9,Tech Enthusiasts,1/16/2021
+151054,Mydeo,Search,Men 25-34,30 days,Facebook,0.12,Yuan Renminbi,5.93,Jiang’an,Arabic,589,4365,9,Outdoor Adventurers,1/5/2021
+117464,Thoughtmix,Influencer,All Ages,60 days,Website,0.03,Yuan Renminbi,6.78,Jiuhu,Icelandic,729,7270,3,Health & Wellness,1/16/2021
+182667,Blogpad,Email,Men 25-34,15 days,Email,0.12,Euro,2.58,Camacha,Kannada,850,4935,4,Outdoor Adventurers,1/22/2021
+181260,Eabox,Email,Women 35-44,30 days,Youtube,0.12,Rupiah,5.48,Laleng,Kannada,686,4625,5,Outdoor Adventurers,1/30/2021
+78782,Jayo,Display,Men 25-34,30 days,Instagram,0.06,Dinar,4.53,Al Matlīn,Dzongkha,626,5134,5,Tech Enthusiasts,1/23/2021
+114712,Edgeify,Search,Men 25-34,15 days,Youtube,0.13,Real,5.23,Arroio Grande,Punjabi,408,6058,9,Fashionistas,1/1/2021
+165727,Kazu,Influencer,Women 35-44,45 days,Google Ads,0.08,Ringgit,5.97,Labuan,Filipino,962,3750,6,Foodies,1/3/2021
+80537,Oyonder,Search,Women 25-34,60 days,Google Ads,0.06,Rial,4.95,Yarīm,Dari,414,8692,3,Health & Wellness,1/24/2021
+168767,Abata,Search,All Ages,45 days,Instagram,0.04,Ruble,3.5,Hal’shany,Georgian,415,5823,6,Foodies,1/11/2021
+88023,Yombu,Influencer,All Ages,45 days,Email,0.06,Yuan Renminbi,5.88,Puwa,Oriya,700,6773,10,Outdoor Adventurers,1/16/2021
+85021,Livetube,Influencer,All Ages,45 days,Instagram,0.1,Yuan Renminbi,6.38,Siheyuan,Dutch,833,8751,4,Foodies,1/27/2021
+103265,Flipbug,Email,Men 25-34,15 days,Email,0.07,Rupiah,6.74,Tambakrejo,Malay,841,5664,10,Outdoor Adventurers,1/22/2021
+155177,Youopia,Display,All Ages,45 days,Instagram,0.06,Ruble,3.37,Gvardeysk,Lithuanian,549,2236,3,Fashionistas,1/20/2021
+130469,Pixonyx,Influencer,All Ages,60 days,Website,0.02,Ruble,3.99,Elekmonar,Amharic,736,4385,3,Fashionistas,1/7/2021
+156220,Tagchat,Display,Women 35-44,30 days,Email,0.1,Euro,4.78,Fécamp,Indonesian,577,8857,9,Fashionistas,1/20/2021
+93902,Teklist,Search,Women 25-34,60 days,Email,0.08,Yuan Renminbi,4.3,Hongling,Telugu,601,5466,7,Outdoor Adventurers,1/25/2021
+123468,Shufflebeat,Influencer,Men 25-34,60 days,Website,0.04,Yuan Renminbi,4.25,Zhongling,Hungarian,976,5551,8,Tech Enthusiasts,1/4/2021
+180940,Yozio,Email,All Ages,60 days,Facebook,0.08,Euro,5.68,Saint-Claude,Hebrew,506,6485,5,Outdoor Adventurers,1/13/2021
+159960,Twitterworks,Email,Women 25-34,45 days,Email,0.07,Yuan Renminbi,2.81,Lingbei,Punjabi,897,6479,5,Tech Enthusiasts,1/12/2021
+185994,Twitternation,Influencer,Men 25-34,60 days,Instagram,0.1,Euro,3.61,Grenoble,West Frisian,637,3066,10,Foodies,1/24/2021
+180947,Rhynoodle,Search,Men 18-24,45 days,Instagram,0.03,Rupiah,5.46,Purwosari,Khmer,936,6253,5,Outdoor Adventurers,1/1/2021
+128412,Tambee,Email,All Ages,30 days,Google Ads,0.04,Somoni,3.47,Chubek,Haitian Creole,690,7285,9,Health & Wellness,1/22/2021
+167692,Yodoo,Influencer,Women 35-44,15 days,Instagram,0.05,Lempira,7.07,Los Tangos,Kannada,692,4354,5,Outdoor Adventurers,1/12/2021
+116878,Fiveclub,Influencer,Women 35-44,60 days,Email,0.11,Real,3.17,Penedo,Norwegian,735,3152,3,Foodies,1/23/2021
+91466,Yakijo,Display,Women 35-44,60 days,Email,0.09,Ruble,6.62,Sergiyev Posad,Hebrew,794,6213,9,Health & Wellness,1/30/2021
+167567,Fiveclub,Email,Men 25-34,30 days,Facebook,0.07,Pound,7.02,Damascus,Indonesian,889,3121,4,Health & Wellness,1/30/2021
+76991,Skinder,Influencer,Women 25-34,45 days,Website,0.06,Pound,4.45,Umm Ruwaba,Malayalam,448,1968,10,Tech Enthusiasts,1/3/2021
+85055,Skibox,Display,Men 25-34,45 days,Website,0.13,Yuan Renminbi,3.68,Louguan,Northern Sotho,724,5032,3,Outdoor Adventurers,1/24/2021
+138078,Dablist,Display,Women 35-44,60 days,Youtube,0.04,Yuan Renminbi,6.5,Dongchen,Lao,384,6491,10,Tech Enthusiasts,1/19/2021
+153257,Eabox,Influencer,Women 35-44,15 days,Youtube,0.11,Dong,5.64,Yên Lạc,Papiamento,479,2120,7,Health & Wellness,1/24/2021
+167347,Yozio,Email,Women 35-44,60 days,Instagram,0.02,Rupiah,5.01,Kalapadua,Kazakh,861,5334,7,Fashionistas,1/8/2021
+146854,Talane,Display,Women 35-44,60 days,Instagram,0.09,Real,6.19,Lages,Dari,448,6194,7,Foodies,1/4/2021
+105327,Tanoodle,Influencer,Men 25-34,30 days,Instagram,0.1,Euro,4.91,Vinhas,Lao,969,2359,10,Outdoor Adventurers,1/19/2021
+146671,Jaloo,Email,Men 25-34,45 days,Instagram,0.08,Rand,4.56,Ventersburg,Burmese,991,7303,9,Tech Enthusiasts,1/9/2021
+134294,Yodo,Email,Men 18-24,60 days,Email,0.04,Euro,5.05,Porta,Guaraní,657,8169,7,Tech Enthusiasts,1/8/2021
+80438,Trunyx,Search,Men 18-24,15 days,Instagram,0.1,Rupiah,6.25,Maunggora,Malay,637,7335,6,Health & Wellness,1/29/2021
+124473,Ntag,Display,All Ages,15 days,Email,0.1,Yuan Renminbi,4.2,Taobei,Bulgarian,726,3591,4,Fashionistas,1/4/2021
+103465,Skyvu,Display,Men 18-24,15 days,Google Ads,0.1,Ruble,5.12,Ustyuzhna,Lao,700,1761,9,Outdoor Adventurers,1/15/2021
+165751,Yakijo,Email,Women 25-34,45 days,Instagram,0.04,Rupiah,5.07,Kalianda,Sotho,776,2846,9,Tech Enthusiasts,1/11/2021
+79144,Gabtype,Display,Women 25-34,45 days,Email,0.04,Yuan Renminbi,5.42,Houzhen,Ndebele,631,6813,4,Tech Enthusiasts,1/10/2021
+119233,Meevee,Email,All Ages,60 days,Email,0.1,Yuan Renminbi,6.88,Hengfan,Sotho,758,4026,8,Health & Wellness,1/5/2021
+73447,Rhynoodle,Search,Men 18-24,30 days,Instagram,0.05,Euro,3.99,Quetigny,English,927,6511,5,Tech Enthusiasts,1/15/2021
+72669,Twitterwire,Email,Men 25-34,45 days,Website,0.07,Rial,7.38,As Sayyānī,Tetum,430,5895,7,Health & Wellness,1/20/2021
+102411,Zoomlounge,Search,Women 35-44,30 days,Instagram,0.08,Peso,6.66,Emiliano Zapata,Assamese,886,7548,6,Fashionistas,1/23/2021
+176768,Eayo,Email,Women 25-34,45 days,Instagram,0.13,Rupiah,5.64,Kedungcangkring,English,926,2367,8,Tech Enthusiasts,1/6/2021
+84722,Twiyo,Search,Women 25-34,30 days,Instagram,0.09,Dollar,4.99,Anchorage,Kannada,588,3429,10,Tech Enthusiasts,1/11/2021
+123658,Kazu,Email,All Ages,30 days,Google Ads,0.11,Euro,3.99,Nantes,Armenian,599,1903,10,Tech Enthusiasts,1/17/2021
+169318,Quaxo,Email,Women 35-44,30 days,Youtube,0.05,Baht,7.06,Phimai,Albanian,638,6194,9,Tech Enthusiasts,1/2/2021
+75448,Browsecat,Display,Men 18-24,15 days,Instagram,0.1,Dollar,3.7,Oneop,Punjabi,784,5126,4,Health & Wellness,1/1/2021
+150355,Skyble,Display,Women 35-44,30 days,Facebook,0.07,Dollar,5.86,Minneapolis,Korean,955,5646,5,Tech Enthusiasts,1/24/2021
+130396,Centizu,Email,Men 18-24,15 days,Website,0.11,Baht,5.94,Ranot,Ndebele,879,6413,3,Outdoor Adventurers,1/11/2021
+103783,Meevee,Email,Women 25-34,60 days,Google Ads,0.11,Yuan Renminbi,4.75,Yangdu,Pashto,659,7441,7,Foodies,1/26/2021
+73733,Centidel,Influencer,All Ages,45 days,Youtube,0.09,Afghani,7.06,Dowr-e Rabāţ,Bosnian,523,8233,3,Outdoor Adventurers,1/2/2021
+119218,Wordpedia,Display,Men 18-24,30 days,Google Ads,0.07,Euro,2.95,Aroeira,Haitian Creole,372,6913,7,Fashionistas,1/7/2021
+149587,Centidel,Display,All Ages,15 days,Facebook,0.1,Afghani,4.29,Sang-e Māshah,Gagauz,793,6661,3,Fashionistas,1/27/2021
+139486,Quinu,Email,Women 35-44,30 days,Google Ads,0.05,Euro,4.14,Reutlingen,Swedish,819,4537,10,Tech Enthusiasts,1/16/2021
+81444,Quimm,Influencer,Men 25-34,60 days,Website,0.06,Yuan Renminbi,5.5,Henglin,Montenegrin,527,5916,10,Outdoor Adventurers,1/2/2021
+180120,Leenti,Search,All Ages,30 days,Youtube,0.1,Peso,5.47,Calumpang,Korean,864,3785,6,Tech Enthusiasts,1/16/2021
+142810,Skibox,Search,Men 18-24,60 days,Email,0.04,Rupiah,5.31,Grati Satu,Danish,918,1711,8,Health & Wellness,1/16/2021
+110933,Tagchat,Display,All Ages,15 days,Facebook,0.1,Rand,5.36,Orkney,Icelandic,562,3584,5,Fashionistas,1/18/2021
+170624,Zava,Influencer,Women 25-34,60 days,Instagram,0.12,Yuan Renminbi,5.54,Xibing,German,930,6672,9,Health & Wellness,1/15/2021
+89317,Oyondu,Influencer,Men 25-34,30 days,Instagram,0.08,Riels,3.46,Kampong Thom,Dari,560,2016,8,Fashionistas,1/15/2021
+103203,Gigabox,Influencer,Women 25-34,15 days,Email,0.11,Baht,5.82,Soeng Sang,Quechua,788,6879,3,Health & Wellness,1/2/2021
+126101,Livepath,Email,Women 35-44,60 days,Email,0.07,Peso,4.02,Moa,Icelandic,734,4105,10,Outdoor Adventurers,1/12/2021
+134221,Mita,Influencer,Women 35-44,60 days,Google Ads,0.13,Krona,3.66,Uppsala,Dzongkha,684,5380,3,Fashionistas,1/17/2021
+103872,Voonyx,Influencer,Women 25-34,45 days,Facebook,0.07,Dram,2.56,Arshaluys,Norwegian,395,5788,4,Foodies,1/15/2021
+155584,Thoughtstorm,Email,All Ages,30 days,Website,0.04,Won,5.95,Heung-hai,Portuguese,772,3209,10,Tech Enthusiasts,1/4/2021
+170715,Browsebug,Search,Men 25-34,60 days,Google Ads,0.09,Rupiah,6.43,Kuncen,German,738,5586,9,Foodies,1/6/2021
+103100,Demivee,Display,Women 25-34,60 days,Email,0.1,Krona,4.59,Linköping,Irish Gaelic,469,7020,7,Outdoor Adventurers,1/30/2021
+184589,Yodo,Influencer,Men 25-34,45 days,Google Ads,0.05,Kyat,7.36,Mawlaik,Luxembourgish,461,4897,4,Fashionistas,1/12/2021
+138730,Voonyx,Search,All Ages,60 days,Facebook,0.07,Peso,5.62,Cotabato,Dhivehi,511,2473,3,Outdoor Adventurers,1/19/2021
+106138,Rhynyx,Email,All Ages,30 days,Youtube,0.04,Real,5.1,Ponta Porã,Swati,429,8988,5,Foodies,1/22/2021
+136683,LiveZ,Influencer,All Ages,30 days,Instagram,0.06,Rupiah,2.86,Wonodadi,Tajik,453,2767,3,Health & Wellness,1/7/2021
+112057,Plajo,Search,Men 18-24,30 days,Email,0.07,Peso,2.81,Sangat,Polish,642,6163,4,Fashionistas,1/5/2021
+98567,Gabtype,Search,Women 25-34,60 days,Website,0.07,Baht,7.39,Uthai Thani,Tajik,929,5905,7,Outdoor Adventurers,1/29/2021
+89529,Jatri,Influencer,All Ages,15 days,Youtube,0.09,Yuan Renminbi,4.63,Hanjiashu,Swahili,454,2965,10,Outdoor Adventurers,1/3/2021
+132764,Twitternation,Influencer,Men 25-34,15 days,Email,0.1,Tugrik,7.35,Tseel,Tsonga,962,6842,5,Foodies,1/9/2021
+101021,Realcube,Influencer,Women 25-34,30 days,Youtube,0.03,Euro,4.11,São Brás de Alportel,Kurdish,825,5630,7,Tech Enthusiasts,1/13/2021
+100954,Skaboo,Influencer,Men 25-34,15 days,Youtube,0.13,Euro,6.85,Montinho,Malagasy,491,8952,6,Fashionistas,1/25/2021
+141232,Jetwire,Influencer,Women 35-44,45 days,Google Ads,0.03,Franc,7.11,Bissau,Romanian,852,8424,6,Tech Enthusiasts,1/4/2021
+72518,Gigabox,Search,Men 18-24,45 days,Facebook,0.05,Manat,6.54,Shushi,Tamil,461,7299,5,Health & Wellness,1/19/2021
+159428,Eabox,Email,All Ages,60 days,Google Ads,0.08,Yuan Renminbi,3.22,Jianping,Danish,639,7521,8,Fashionistas,1/16/2021
+86153,Quinu,Display,Men 25-34,15 days,Facebook,0.09,Shekel,7.37,Kafr Thulth,New Zealand Sign Language,896,6153,4,Foodies,1/2/2021
+113078,Trudoo,Email,Men 25-34,60 days,Website,0.07,Rupiah,4.76,Palopo,Tsonga,434,8324,7,Fashionistas,1/29/2021
+112699,Wordify,Influencer,Men 18-24,30 days,Google Ads,0.04,Franc,6.59,Fundong,Fijian,932,4265,7,Foodies,1/25/2021
+104362,Rhyzio,Display,Women 25-34,15 days,Instagram,0.06,Ruble,6.1,Yazykovo,Lao,936,5848,4,Foodies,1/28/2021
+76493,Yata,Influencer,Women 35-44,30 days,Website,0.13,Shilling,5.16,Urambo,Norwegian,995,4006,8,Health & Wellness,1/19/2021
+130394,Edgeblab,Influencer,Women 25-34,60 days,Website,0.11,Krona,3.72,Sundbyberg,Assamese,476,4057,6,Tech Enthusiasts,1/29/2021
+137315,Pixoboo,Search,Men 25-34,45 days,Youtube,0.11,Pound,5.33,Hihyā,Hebrew,481,6169,8,Health & Wellness,1/3/2021
+76285,Kazio,Email,Men 18-24,45 days,Google Ads,0.09,Yen,3.95,Toyoshina,Malagasy,632,5271,9,Health & Wellness,1/5/2021
+153244,Twitterlist,Influencer,Women 35-44,60 days,Website,0.09,Yuan Renminbi,2.55,Fuhai,Aymara,676,2784,3,Outdoor Adventurers,1/30/2021
+74093,Buzzster,Display,Men 25-34,45 days,Youtube,0.08,Euro,5.29,Berģi,Burmese,871,5113,3,Outdoor Adventurers,1/14/2021
+169868,Browsecat,Influencer,Women 35-44,15 days,Instagram,0.13,Rupiah,6.89,Jayapura,Amharic,644,4576,7,Tech Enthusiasts,1/1/2021
+165226,Dabjam,Search,Women 35-44,30 days,Youtube,0.1,Won,6.32,Hongsung,Malayalam,611,3002,7,Health & Wellness,1/17/2021
+182454,Skajo,Influencer,Men 18-24,60 days,Website,0.04,Peso,5.52,Buracan,Bengali,737,2879,9,Fashionistas,1/2/2021
+163147,Minyx,Search,Women 25-34,45 days,Google Ads,0.12,Euro,6.86,Baguim do Monte,Amharic,879,6881,10,Health & Wellness,1/1/2021
+186215,Ailane,Email,All Ages,15 days,Google Ads,0.04,Peso,4.76,Guadalupe Victoria,Polish,739,1742,10,Fashionistas,1/4/2021
+109508,Kimia,Display,Men 18-24,30 days,Website,0.05,Ruble,2.75,Kuybyshev,Italian,512,5274,8,Outdoor Adventurers,1/25/2021
+151008,Youfeed,Display,Women 35-44,60 days,Google Ads,0.11,Tenge,6.1,Shalkar,West Frisian,920,6949,4,Health & Wellness,1/16/2021
+84487,Gabvine,Search,Men 18-24,30 days,Instagram,0.07,Euro,4.34,Mikró Monastíri,Lithuanian,466,4454,8,Tech Enthusiasts,1/13/2021
+120262,Realcube,Influencer,Women 25-34,45 days,Google Ads,0.11,Ruble,7.52,Smolensk,Greek,459,8641,7,Fashionistas,1/27/2021
+95648,Zoozzy,Search,Men 18-24,30 days,Instagram,0.07,Peso,2.47,Batarasa,Marathi,625,4037,6,Health & Wellness,1/5/2021
+131911,Plajo,Display,Women 25-34,15 days,Website,0.09,Euro,7.04,Giesteira,Zulu,780,2147,6,Outdoor Adventurers,1/22/2021
+99057,Avamba,Influencer,Men 25-34,15 days,Facebook,0.04,Zloty,2.69,Laliki,Fijian,925,2228,6,Foodies,1/9/2021
+90349,Kimia,Influencer,Men 18-24,30 days,Youtube,0.11,Yuan Renminbi,5.07,Zhenqiao,Greek,724,5303,9,Health & Wellness,1/2/2021
+121816,Skinix,Display,Women 35-44,15 days,Email,0.1,Peso,5.38,Quimilí,Bengali,484,3304,5,Fashionistas,1/15/2021
+146515,Skipstorm,Email,All Ages,30 days,Email,0.11,Peso,4.47,San Nicolas,West Frisian,812,6479,6,Outdoor Adventurers,1/28/2021
+118621,Realcube,Search,Women 35-44,30 days,Instagram,0.12,Yuan Renminbi,4.26,Suizhou,Indonesian,680,4188,4,Health & Wellness,1/15/2021
+89416,Yodel,Search,All Ages,15 days,Facebook,0.08,Peso,4.14,Mainit,Nepali,687,5825,8,Fashionistas,1/30/2021
+141051,Edgeify,Display,Women 35-44,60 days,Youtube,0.07,Zloty,3.05,Fajsławice,Croatian,788,3945,8,Fashionistas,1/22/2021
+82946,Twinder,Influencer,Women 25-34,45 days,Facebook,0.1,Tenge,3.47,Astana,Zulu,425,3521,10,Foodies,1/2/2021
+107334,Mydo,Email,All Ages,45 days,Youtube,0.06,Shekel,4.4,Al Judayrah,Yiddish,740,6589,3,Fashionistas,1/23/2021
+183285,Vidoo,Search,Men 18-24,60 days,Facebook,0.08,Ruble,4.63,Uchkeken,Filipino,484,6187,7,Outdoor Adventurers,1/5/2021
+133495,Dazzlesphere,Search,Women 25-34,30 days,Instagram,0.11,Yuan Renminbi,6.03,Henglian,Hiri Motu,807,4022,5,Tech Enthusiasts,1/11/2021
+98734,Tazzy,Email,Women 25-34,60 days,Google Ads,0.11,Yuan Renminbi,4.44,Maying,Burmese,641,8040,5,Foodies,1/19/2021
+161055,Tagpad,Email,Women 25-34,60 days,Instagram,0.12,Ruble,4.04,Pankrushikha,Swati,371,8609,10,Tech Enthusiasts,1/3/2021
+173756,Twitterwire,Search,Men 18-24,30 days,Youtube,0.09,Dram,4.35,Abovyan,French,824,6889,3,Foodies,1/10/2021
+116515,Zazio,Search,Women 25-34,30 days,Facebook,0.04,Ruble,6.32,Yartsevo,Marathi,767,5464,7,Fashionistas,1/20/2021
+166551,Zoovu,Display,All Ages,45 days,Instagram,0.02,Rupee,5.37,Jalālpur,Thai,439,5786,6,Health & Wellness,1/24/2021
+85925,Topiclounge,Search,Men 18-24,60 days,Google Ads,0.04,Real,3.25,Belo Oriente,Montenegrin,568,5376,3,Tech Enthusiasts,1/20/2021
+135812,Babblestorm,Search,Women 35-44,15 days,Website,0.12,Dollar,5.28,Marathon,Bislama,859,8066,8,Outdoor Adventurers,1/15/2021
+146996,Innotype,Email,Men 18-24,45 days,Instagram,0.03,Peso,2.99,Cadagmayan Norte,Tamil,498,8706,7,Outdoor Adventurers,1/9/2021
+96831,Thoughtblab,Influencer,All Ages,60 days,Instagram,0.03,Ruble,4.2,Lyambir’,French,469,4838,5,Tech Enthusiasts,1/7/2021
+164408,Flashset,Influencer,Men 25-34,15 days,Website,0.06,Krone,6.52,Oslo,Persian,820,2096,5,Foodies,1/23/2021
+118205,Gabvine,Email,Men 18-24,30 days,Facebook,0.11,Yuan Renminbi,3.65,Hongqiao,Georgian,792,2142,7,Foodies,1/16/2021
+107264,Vipe,Search,Men 18-24,45 days,Email,0.09,Euro,3.7,Aldeia,Bosnian,988,2322,5,Tech Enthusiasts,1/7/2021
+128339,Rhycero,Search,All Ages,30 days,Youtube,0.12,Sol,6.87,Paita,New Zealand Sign Language,928,2941,3,Fashionistas,1/6/2021
+90376,Twiyo,Search,Women 25-34,45 days,Instagram,0.08,Zloty,5.09,Głuchów,Malay,422,8835,5,Foodies,1/16/2021
+127149,Jatri,Display,Men 25-34,30 days,Google Ads,0.09,Yuan Renminbi,5.2,Pingdu,Dzongkha,644,5077,5,Health & Wellness,1/14/2021
+149029,Kayveo,Display,Men 18-24,60 days,Email,0.09,Yuan Renminbi,6.84,Jiangnan,Kazakh,869,2896,7,Foodies,1/22/2021
+70868,Divavu,Search,All Ages,15 days,Website,0.1,Peso,7.15,Wright,Swedish,769,8346,10,Outdoor Adventurers,1/10/2021
+184112,Blognation,Email,Men 25-34,30 days,Facebook,0.11,Ariary,3.6,Mananara,Thai,648,7922,10,Fashionistas,1/30/2021
+125164,Cogilith,Influencer,Men 18-24,30 days,Youtube,0.1,Won,4.06,Incheon,Montenegrin,831,1670,7,Foodies,1/21/2021
+118279,Skynoodle,Email,Women 35-44,60 days,Facebook,0.06,Yuan Renminbi,7.3,Lianyi,Montenegrin,594,3372,9,Outdoor Adventurers,1/5/2021
+119416,Trupe,Influencer,All Ages,15 days,Website,0.08,Rupiah,4.49,Gagah,Mongolian,714,8931,8,Health & Wellness,1/7/2021
+111000,Aimbu,Search,Women 25-34,15 days,Facebook,0.07,Peso,3.16,Navotas,Spanish,526,8447,5,Outdoor Adventurers,1/30/2021
+155037,Gigazoom,Display,Women 25-34,60 days,Instagram,0.07,Dong,2.63,Hai Riêng,Albanian,891,3924,6,Outdoor Adventurers,1/27/2021
+137672,Gigashots,Influencer,Women 35-44,30 days,Email,0.05,Peso,4.17,Sinacaban,Icelandic,605,2313,3,Fashionistas,1/23/2021
+140471,Zoonoodle,Search,Men 18-24,60 days,Facebook,0.03,Yuan Renminbi,6.05,Xishan,Fijian,850,5218,9,Outdoor Adventurers,1/22/2021
+106965,Meembee,Influencer,Women 35-44,60 days,Youtube,0.03,Yuan Renminbi,2.54,Tieremu,Kashmiri,476,7918,6,Foodies,1/11/2021
+163359,Dynava,Influencer,Women 35-44,60 days,Youtube,0.03,Naira,5.35,Neni,Telugu,582,4981,10,Tech Enthusiasts,1/22/2021
+97900,Janyx,Search,All Ages,15 days,Google Ads,0.07,Peso,5.4,Emiliano Zapata,Malayalam,699,3149,8,Fashionistas,1/10/2021
+122721,Eire,Email,Women 25-34,15 days,Youtube,0.06,Shekel,7.02,Al Fandaqūmīyah,Quechua,899,2218,9,Tech Enthusiasts,1/5/2021
+99315,JumpXS,Search,Women 25-34,45 days,Email,0.12,Yuan Renminbi,6.52,Lizhuangzi,Tswana,569,5693,6,Fashionistas,1/19/2021
+105641,Yombu,Display,Men 18-24,15 days,Youtube,0.07,Pound,3.83,Middleton,Latvian,719,2175,3,Outdoor Adventurers,1/12/2021
+140577,Fadeo,Email,Men 25-34,45 days,Email,0.06,Yuan Renminbi,5.55,Niejiahe,Zulu,757,1782,5,Outdoor Adventurers,1/24/2021
+158971,Eidel,Email,Men 25-34,45 days,Email,0.05,Zloty,5.41,Wąpielsk,Northern Sotho,477,6450,7,Outdoor Adventurers,1/26/2021
+148365,Yozio,Email,Women 35-44,30 days,Website,0.03,Yuan Renminbi,3.36,Shiwan,Lithuanian,598,5634,8,Tech Enthusiasts,1/1/2021
+79813,Youtags,Display,All Ages,30 days,Facebook,0.09,Dong,5.55,Hai Riêng,New Zealand Sign Language,545,7766,3,Fashionistas,1/26/2021
+109544,Yabox,Email,Men 25-34,15 days,Instagram,0.04,Euro,7.16,Rouen,Danish,795,2264,10,Fashionistas,1/3/2021
+149099,Photospace,Influencer,Women 35-44,60 days,Google Ads,0.05,Bolivar,5.2,Boca de Uchire,Croatian,556,5991,8,Foodies,1/14/2021
+123167,Minyx,Display,Men 18-24,45 days,Google Ads,0.07,Yuan Renminbi,7.38,Jincun,Burmese,722,5880,8,Foodies,1/18/2021
+90671,Yadel,Search,Women 35-44,45 days,Youtube,0.12,Naira,4.73,Ejigbo,Punjabi,874,5480,4,Tech Enthusiasts,1/27/2021
+155842,Kanoodle,Display,Men 18-24,15 days,Instagram,0.02,Yen,4.9,Takarazuka,Belarusian,735,2709,3,Tech Enthusiasts,1/7/2021
+158180,Fivespan,Search,Men 25-34,15 days,Email,0.08,Peso,5.11,Gumaus,Pashto,954,7270,3,Health & Wellness,1/25/2021
+132800,Thoughtsphere,Display,Women 25-34,45 days,Facebook,0.06,Krona,3.05,Järfälla,Amharic,361,4711,3,Health & Wellness,1/15/2021
+113680,InnoZ,Display,All Ages,15 days,Website,0.06,Quetzal,6.94,Chicacao,Albanian,451,7575,7,Fashionistas,1/7/2021
+77498,Innotype,Search,Men 18-24,60 days,Instagram,0.09,Yuan Renminbi,5.76,Puyang,Somali,679,3284,7,Foodies,1/12/2021
+101543,Realbuzz,Search,Women 25-34,60 days,Facebook,0.08,Rial,3.52,Isfahan,Swedish,854,3828,8,Foodies,1/24/2021
+113226,Ainyx,Email,Men 18-24,30 days,Google Ads,0.1,Yen,6.89,Kawanishi,Gujarati,932,2420,5,Tech Enthusiasts,1/15/2021
+92676,Mudo,Email,Women 35-44,30 days,Website,0.09,Peso,5.56,Unión,Albanian,694,7319,9,Fashionistas,1/21/2021
+90867,Centimia,Search,Men 25-34,45 days,Google Ads,0.08,Yuan Renminbi,3.19,Tiemen,Indonesian,735,4848,9,Health & Wellness,1/18/2021
+105319,Twitterbeat,Email,Women 35-44,45 days,Website,0.09,Krona,4.09,Stockholm,Czech,957,3473,6,Foodies,1/9/2021
+180645,Skiba,Display,All Ages,30 days,Youtube,0.09,Real,3.64,Passa Quatro,Malay,639,7147,10,Outdoor Adventurers,1/22/2021
+104275,Jayo,Email,Men 25-34,15 days,Instagram,0.05,Shekel,6.44,‘Afula ‘Illit,Luxembourgish,440,3904,3,Fashionistas,1/30/2021
+90807,Reallinks,Search,Men 25-34,30 days,Email,0.1,Rupiah,6.36,Pinggirsari,Albanian,795,3869,5,Outdoor Adventurers,1/4/2021
+78040,Skyndu,Email,Men 25-34,60 days,Website,0.05,Real,7.24,Mombaça,Hindi,975,6730,9,Outdoor Adventurers,1/3/2021
+112841,Oyoba,Email,All Ages,45 days,Email,0.12,Dirham,3.56,Timezgadiouine,Albanian,435,6310,6,Outdoor Adventurers,1/22/2021
+181409,Abata,Display,All Ages,45 days,Facebook,0.02,Yuan Renminbi,3.3,Huaxian,Swati,907,4374,9,Tech Enthusiasts,1/24/2021
+179014,Meedoo,Influencer,Men 25-34,30 days,Instagram,0.08,Yuan Renminbi,3.16,Guangming,Montenegrin,387,4058,3,Tech Enthusiasts,1/10/2021
+153494,Rhycero,Email,Men 25-34,15 days,Google Ads,0.04,Tenge,6.89,Maleevsk,Italian,810,5033,4,Tech Enthusiasts,1/2/2021
+74800,Photospace,Influencer,All Ages,15 days,Instagram,0.08,Peso,3.28,San Antonio,Montenegrin,727,2625,6,Tech Enthusiasts,1/2/2021
+146985,Tekfly,Influencer,Men 18-24,30 days,Instagram,0.1,Krona,6.99,Jönköping,Japanese,575,1730,5,Tech Enthusiasts,1/6/2021
+136873,Avamm,Influencer,Women 25-34,15 days,Google Ads,0.06,Dollar,6.7,Oklahoma City,Hiri Motu,523,3637,7,Fashionistas,1/14/2021
+135671,LiveZ,Search,Men 18-24,60 days,Instagram,0.05,Yuan Renminbi,4.6,Xinyi,Amharic,399,4798,6,Outdoor Adventurers,1/12/2021
+95544,Rhynoodle,Influencer,All Ages,45 days,Email,0.07,Yuan Renminbi,2.71,Lengshuijing,Sotho,572,5557,9,Tech Enthusiasts,1/29/2021
+172737,Brainsphere,Influencer,All Ages,45 days,Facebook,0.05,Peso,3.92,Benito Juarez,Moldovan,954,1834,7,Health & Wellness,1/23/2021
+159269,Jetpulse,Influencer,All Ages,30 days,Youtube,0.05,Yuan Renminbi,4.88,Daqian,Swedish,385,2273,4,Foodies,1/1/2021
+125075,Oyoyo,Display,Women 35-44,45 days,Google Ads,0.08,Ruble,4.76,Shumyachi,Moldovan,814,5242,10,Foodies,1/26/2021
+127565,Zoonoodle,Email,Women 35-44,45 days,Facebook,0.02,Ruble,2.49,Novyy Oskol,Punjabi,812,7792,3,Outdoor Adventurers,1/23/2021
+139159,Ooba,Influencer,Women 35-44,45 days,Youtube,0.11,Ruble,5.56,Petrovsk,Ndebele,778,8254,5,Health & Wellness,1/18/2021
+82294,Oodoo,Display,Men 25-34,30 days,Youtube,0.13,Shekel,4.41,Or Yehuda,Irish Gaelic,806,6471,10,Outdoor Adventurers,1/26/2021
+167488,Browsetype,Influencer,Men 25-34,45 days,Youtube,0.12,Cordoba,4.52,Quezalguaque,Swedish,437,8271,5,Fashionistas,1/17/2021
+99794,Mudo,Email,Men 25-34,60 days,Website,0.05,Dinar,2.78,‘Aqrah,Arabic,638,2207,10,Health & Wellness,1/26/2021
+153912,Skilith,Influencer,Women 25-34,30 days,Youtube,0.04,Euro,3.67,Delães,Burmese,990,8359,6,Outdoor Adventurers,1/5/2021
+180566,Agivu,Display,Women 25-34,30 days,Youtube,0.04,Tugrik,2.45,Bayanhoshuu,Czech,649,4457,4,Tech Enthusiasts,1/25/2021
+141072,Tambee,Email,Women 25-34,60 days,Youtube,0.1,Euro,5.75,Calçada,Tetum,597,2075,4,Tech Enthusiasts,1/15/2021
+103635,Plajo,Email,Men 18-24,45 days,Google Ads,0.04,Euro,3.41,Carnaxide,Arabic,931,1661,3,Health & Wellness,1/22/2021
+135503,Skinte,Display,All Ages,30 days,Youtube,0.08,Ruble,3.03,Yefremov,Arabic,465,6042,6,Outdoor Adventurers,1/11/2021
+88922,Linklinks,Influencer,Women 35-44,60 days,Email,0.08,Yuan Renminbi,6.99,Shangwuzhuang,Kurdish,833,8237,8,Foodies,1/20/2021
+125569,Realcube,Search,Women 35-44,15 days,Instagram,0.11,Peso,3.59,Inriville,Yiddish,423,2171,3,Fashionistas,1/9/2021
+97130,Voolith,Search,Women 35-44,15 days,Youtube,0.06,Yuan Renminbi,7.41,Fushi,Arabic,881,8651,5,Fashionistas,1/1/2021
+137387,Camido,Email,Men 25-34,15 days,Email,0.08,Peso,2.56,Palompon,Khmer,661,7632,9,Health & Wellness,1/5/2021
+140479,DabZ,Display,Men 25-34,60 days,Google Ads,0.06,Peso,3.08,La Rioja,Tamil,540,4536,6,Fashionistas,1/16/2021
+184923,Pixope,Display,Men 18-24,45 days,Instagram,0.08,Euro,6.02,Fajões,Estonian,967,4794,8,Fashionistas,1/4/2021
+129191,Fivechat,Display,Men 18-24,15 days,Website,0.06,Rupiah,2.74,Jetis,Aymara,534,3467,7,Health & Wellness,1/9/2021
+85275,Meembee,Influencer,Women 25-34,45 days,Email,0.12,Euro,5.62,Caldas das Taipas,Dhivehi,800,6778,8,Tech Enthusiasts,1/7/2021
+77968,Youtags,Influencer,Women 25-34,45 days,Email,0.12,Yuan Renminbi,3.23,Xinhua,Kurdish,985,5230,8,Health & Wellness,1/7/2021
+167217,Fliptune,Influencer,Women 25-34,15 days,Website,0.07,Zloty,6.21,Golub-Dobrzyń,Burmese,823,2081,5,Foodies,1/8/2021
+175726,Oyope,Search,All Ages,15 days,Website,0.05,Euro,5.45,Suodenniemi,English,415,6403,5,Tech Enthusiasts,1/13/2021
+182131,Thoughtbeat,Search,Women 25-34,45 days,Facebook,0.1,Real,5.81,Macapá,Punjabi,631,3628,3,Foodies,1/13/2021
+171609,Browseblab,Email,Men 25-34,15 days,Instagram,0.13,Quetzal,4.16,Cabañas,Somali,818,1873,7,Tech Enthusiasts,1/10/2021
+124818,Thoughtblab,Influencer,Men 18-24,45 days,Website,0.08,Zloty,2.51,Spytkowice,English,425,7631,3,Health & Wellness,1/23/2021
+117593,Voomm,Display,Men 25-34,15 days,Youtube,0.11,Rial,4.2,Qom,Norwegian,686,8131,3,Health & Wellness,1/27/2021
+111092,Npath,Influencer,Men 25-34,15 days,Facebook,0.03,Rupiah,6.85,Cikalaces,Polish,871,7385,4,Tech Enthusiasts,1/20/2021
+150614,Ozu,Search,Women 25-34,60 days,Facebook,0.03,Rupiah,3.98,Karangagung Timur,Irish Gaelic,375,6259,3,Foodies,1/9/2021
+114946,Yamia,Display,Women 35-44,60 days,Instagram,0.1,Rupiah,2.79,Ubud,Persian,836,5705,9,Foodies,1/20/2021
+171388,Eimbee,Email,Women 35-44,45 days,Google Ads,0.05,Peso,4.55,Irosin,Kashmiri,473,5577,9,Health & Wellness,1/21/2021
+86595,Youfeed,Email,Men 18-24,60 days,Website,0.06,Rand,6.26,Potchefstroom,Arabic,369,2764,7,Outdoor Adventurers,1/25/2021
+167871,Jetwire,Email,Men 18-24,60 days,Youtube,0.09,Yen,5.0,Hiratsuka,Indonesian,811,6349,6,Health & Wellness,1/27/2021
+113900,Vipe,Influencer,Men 18-24,15 days,Instagram,0.1,Ruble,2.6,Yelets,Luxembourgish,666,8494,10,Fashionistas,1/22/2021
+93794,Gabcube,Email,Men 18-24,60 days,Facebook,0.11,Peso,6.74,Anao,Filipino,971,6438,8,Tech Enthusiasts,1/27/2021
+141164,Oyoyo,Email,Women 35-44,15 days,Email,0.06,Dollar,3.76,Anchorage,Malay,429,4633,6,Fashionistas,1/28/2021
+159002,Topicware,Search,Men 25-34,30 days,Youtube,0.12,Euro,4.32,Salacgrīva,Fijian,532,5525,5,Fashionistas,1/25/2021
+122641,Oyope,Search,Men 25-34,45 days,Website,0.06,Real,7.29,Macapá,Oriya,741,4122,6,Health & Wellness,1/4/2021
+167793,Dabvine,Influencer,Women 25-34,30 days,Instagram,0.09,Ariary,7.08,Ambanja,Nepali,363,6117,10,Outdoor Adventurers,1/27/2021
+166693,Avavee,Search,Women 35-44,15 days,Email,0.09,Rupiah,3.49,Rancaerang,Filipino,723,6692,5,Tech Enthusiasts,1/9/2021
+142092,Jaloo,Email,Women 35-44,45 days,Email,0.08,Rupiah,6.11,Tangerang,Bislama,472,4995,6,Health & Wellness,1/17/2021
+148899,Abata,Search,Women 25-34,60 days,Google Ads,0.08,Tugrik,7.17,Ereencav,Hindi,777,3270,7,Foodies,1/9/2021
+96428,Thoughtblab,Email,Women 25-34,15 days,Facebook,0.04,Yuan Renminbi,4.08,Baoping,Yiddish,613,6500,9,Fashionistas,1/3/2021
+77383,Yabox,Influencer,Women 35-44,15 days,Youtube,0.03,Lev,3.96,Peshtera,Tsonga,767,6459,4,Health & Wellness,1/17/2021
+153008,Babbleblab,Display,Men 18-24,60 days,Youtube,0.05,Afghani,4.99,Khān Neshīn,Thai,626,5802,3,Health & Wellness,1/9/2021
+119470,Pixope,Display,All Ages,30 days,Google Ads,0.1,Yuan Renminbi,6.41,Sanli,Lithuanian,405,4504,3,Foodies,1/11/2021
+106970,Devcast,Display,Women 25-34,60 days,Website,0.05,Rupiah,3.87,Kolirerek,Finnish,699,8045,10,Health & Wellness,1/17/2021
+93954,Realbuzz,Display,Women 35-44,45 days,Google Ads,0.13,Peso,3.46,San Antonio,Ndebele,630,8654,8,Foodies,1/30/2021
+87411,Riffpedia,Display,Men 25-34,15 days,Facebook,0.03,Euro,5.36,Montauban,Georgian,434,7028,10,Outdoor Adventurers,1/8/2021
+184905,Mybuzz,Display,Men 25-34,30 days,Website,0.12,Peso,4.94,Boca Chica,Papiamento,785,4478,8,Outdoor Adventurers,1/11/2021
+184024,Skyba,Display,Men 25-34,15 days,Email,0.1,Zloty,6.74,Suchań,Persian,521,8322,6,Health & Wellness,1/12/2021
+84611,Pixoboo,Display,Women 25-34,45 days,Email,0.1,Rupiah,3.49,Kimaam,Malayalam,767,7580,7,Fashionistas,1/20/2021
+123547,Snaptags,Email,Women 35-44,30 days,Instagram,0.07,Yuan Renminbi,3.73,Huangludian,Estonian,451,8404,6,Foodies,1/21/2021
+184776,Dynazzy,Search,Men 18-24,30 days,Youtube,0.05,Sol,5.84,Paico,Thai,960,2879,9,Foodies,1/1/2021
+83555,Skalith,Display,Women 25-34,30 days,Email,0.09,Yuan Renminbi,6.58,Geputan,Sotho,856,6474,10,Tech Enthusiasts,1/18/2021
+170624,Gigazoom,Display,Men 25-34,30 days,Email,0.08,Euro,4.71,Delft,Papiamento,912,2382,3,Fashionistas,1/2/2021
+106786,Livepath,Influencer,Men 25-34,30 days,Google Ads,0.12,Yuan Renminbi,3.08,Aqqan,Tswana,584,4688,10,Health & Wellness,1/12/2021
+167472,Zoovu,Email,Men 25-34,15 days,Youtube,0.06,Koruna,3.46,Polešovice,Polish,992,3053,6,Foodies,1/11/2021
+155777,Demizz,Search,Men 18-24,60 days,Youtube,0.1,Won,5.01,Gaigeturi,Macedonian,439,6125,4,Tech Enthusiasts,1/23/2021
+177938,Buzzdog,Influencer,Men 25-34,60 days,Email,0.07,Dram,6.74,Geghanist,Burmese,595,3703,6,Tech Enthusiasts,1/21/2021
+125497,Quinu,Email,Men 18-24,30 days,Email,0.07,Yuan Renminbi,4.64,Huangbu,New Zealand Sign Language,606,4330,7,Foodies,1/17/2021
+148236,Divape,Email,Men 18-24,15 days,Email,0.09,Rupee,3.36,Lārkāna,Bulgarian,821,7490,4,Health & Wellness,1/26/2021
+117824,Lazz,Search,Women 25-34,60 days,Email,0.11,Zloty,5.19,Bolesławiec,Papiamento,622,2804,6,Health & Wellness,1/27/2021
+180852,Jabberbean,Search,All Ages,60 days,Youtube,0.05,Baht,6.06,Sirindhorn,Bulgarian,382,2286,8,Foodies,1/10/2021
+91712,Jamia,Display,Men 18-24,60 days,Youtube,0.05,Peso,6.53,San Diego,Mongolian,666,5851,3,Foodies,1/14/2021
+165218,Thoughtstorm,Email,Men 25-34,15 days,Youtube,0.12,Rupiah,5.86,Daleman,Bosnian,663,8323,7,Foodies,1/8/2021
+78259,Blogspan,Email,All Ages,45 days,Email,0.06,Ruble,6.28,Orsha,Danish,723,5005,8,Foodies,1/15/2021
+118827,Livetube,Search,Men 25-34,30 days,Facebook,0.09,Ruble,7.3,Rostokino,Bosnian,989,8152,7,Fashionistas,1/13/2021
+144211,Edgewire,Email,All Ages,15 days,Email,0.03,Yuan Renminbi,5.95,Erdaocha,Tok Pisin,398,4675,8,Tech Enthusiasts,1/5/2021
+161999,Wikivu,Email,Men 25-34,60 days,Google Ads,0.04,Real,6.41,Extremoz,Moldovan,755,5850,10,Health & Wellness,1/25/2021
+161492,Twinte,Influencer,All Ages,30 days,Youtube,0.1,Yen,5.73,Matsutō,Catalan,938,4103,4,Health & Wellness,1/3/2021
+76894,Skiba,Influencer,Women 35-44,45 days,Facebook,0.11,Somoni,3.4,Darband,Fijian,561,3522,9,Foodies,1/25/2021
+131826,Muxo,Email,Men 25-34,30 days,Website,0.13,Kwacha,4.13,Mangochi,Kyrgyz,518,7095,7,Tech Enthusiasts,1/25/2021
+97262,Oba,Influencer,Women 25-34,60 days,Email,0.11,Franc,2.62,Zürich,Bislama,804,4716,10,Outdoor Adventurers,1/20/2021
+73190,Zoombeat,Search,Women 25-34,60 days,Website,0.04,Euro,5.99,Pinheiral,Bislama,535,2412,10,Foodies,1/11/2021
+92349,Quire,Display,Men 25-34,60 days,Instagram,0.05,Krona,5.06,Farsta,Dhivehi,905,8616,7,Tech Enthusiasts,1/29/2021
+88911,Edgeify,Search,Women 35-44,15 days,Youtube,0.05,Tenge,4.34,Ush-Tyube,Japanese,596,7627,10,Tech Enthusiasts,1/1/2021
+181882,Camido,Influencer,Men 18-24,60 days,Facebook,0.09,Ruble,4.24,Bogolyubovo,Georgian,633,4485,9,Health & Wellness,1/3/2021
+100117,Fadeo,Display,Women 35-44,15 days,Youtube,0.12,Rupiah,3.43,Krajan Jabungcandi,West Frisian,829,4810,8,Tech Enthusiasts,1/13/2021
+79615,Aimbu,Email,All Ages,45 days,Facebook,0.12,Baht,3.16,Nong Ruea,Luxembourgish,584,8839,3,Tech Enthusiasts,1/27/2021
+180957,Jabbersphere,Email,Men 25-34,60 days,Youtube,0.11,Yuan Renminbi,6.63,Tonghong,Kashmiri,445,5812,10,Foodies,1/21/2021
+78380,Reallinks,Influencer,Women 25-34,60 days,Google Ads,0.1,Won,5.5,Kwangyang,Polish,915,3926,4,Fashionistas,1/28/2021
+160497,Mudo,Search,Women 35-44,30 days,Facebook,0.11,Ruble,3.9,Vershino-Shakhtaminskiy,Māori,634,8363,8,Outdoor Adventurers,1/26/2021
+75232,Quamba,Search,All Ages,45 days,Youtube,0.09,Real,6.0,Panorama,Norwegian,907,1880,10,Health & Wellness,1/25/2021
+133312,InnoZ,Search,Women 25-34,45 days,Instagram,0.05,Euro,4.18,Orahovac,Dutch,818,5504,7,Tech Enthusiasts,1/29/2021
+174391,Avamba,Email,Men 25-34,45 days,Website,0.12,Peso,3.24,Malinta,Macedonian,736,8822,9,Health & Wellness,1/25/2021
+149070,Vipe,Influencer,Men 25-34,15 days,Youtube,0.13,Rupiah,6.31,Panggung,Filipino,407,6059,5,Fashionistas,1/30/2021
+93994,Feedfire,Email,Men 18-24,15 days,Facebook,0.12,Zloty,3.95,Kostrzyn nad Odrą,Macedonian,884,1852,3,Fashionistas,1/23/2021
+150921,Devbug,Influencer,Women 35-44,15 days,Website,0.11,Krona,3.85,Lidköping,Kashmiri,771,5814,3,Outdoor Adventurers,1/21/2021
+181807,Kazu,Search,All Ages,60 days,Email,0.07,Naira,2.56,Oke Mesi,Azeri,756,4273,5,Outdoor Adventurers,1/14/2021
+83763,Skibox,Influencer,Men 18-24,60 days,Google Ads,0.08,Koruna,5.19,Zabrušany,Hindi,498,3491,8,Fashionistas,1/21/2021
+162113,Kwinu,Search,All Ages,30 days,Website,0.03,Rupiah,5.56,Lenakapa,Bulgarian,755,7618,9,Outdoor Adventurers,1/21/2021
+111632,Mydeo,Email,Men 25-34,60 days,Google Ads,0.02,Dinar,5.94,Bajina Bašta,Maltese,749,6175,4,Foodies,1/10/2021
+173161,Skilith,Influencer,Women 35-44,15 days,Facebook,0.12,Lev,5.74,Malko Tŭrnovo,Tswana,560,2076,9,Fashionistas,1/21/2021
+128061,Yodoo,Email,Men 25-34,45 days,Website,0.03,Sol,3.35,Duraznopampa,Tsonga,801,6977,10,Outdoor Adventurers,1/12/2021
+114248,Shufflester,Display,Women 25-34,45 days,Email,0.11,Euro,5.31,Waldbredimus,Mongolian,558,6909,6,Tech Enthusiasts,1/3/2021
+97476,Brightdog,Influencer,All Ages,60 days,Google Ads,0.04,Peso,6.22,Pore,Pashto,980,6408,5,Foodies,1/2/2021
+94323,Meezzy,Influencer,All Ages,45 days,Instagram,0.03,Yuan Renminbi,5.33,Tianxingchang,Dzongkha,973,5651,5,Outdoor Adventurers,1/22/2021
+138709,Thoughtblab,Search,Women 25-34,45 days,Youtube,0.04,Yuan Renminbi,5.27,Cuntan,Lithuanian,551,3170,10,Tech Enthusiasts,1/17/2021
+169379,Devbug,Display,All Ages,45 days,Youtube,0.07,Ruble,2.55,Kirovsk,Tamil,954,6575,6,Health & Wellness,1/12/2021
+91190,Yotz,Display,Men 25-34,30 days,Email,0.12,Yuan Renminbi,4.37,Wolongquan,Malayalam,545,7436,3,Fashionistas,1/8/2021
+88065,Tazz,Search,Men 18-24,45 days,Website,0.03,Yuan Renminbi,3.21,Bayan Hot,Pashto,811,6354,5,Tech Enthusiasts,1/6/2021
+103638,Avaveo,Search,All Ages,15 days,Google Ads,0.07,Rupiah,4.66,Lasusua,Armenian,962,4741,4,Tech Enthusiasts,1/24/2021
+171010,Riffpedia,Influencer,Women 35-44,45 days,Google Ads,0.07,Yuan Renminbi,6.64,Yaojiaji,Northern Sotho,915,4012,6,Fashionistas,1/18/2021
+142645,Skiptube,Influencer,Women 25-34,60 days,Instagram,0.03,Kwacha,6.04,Mzimba,Amharic,584,6874,9,Foodies,1/13/2021
+153635,Tagpad,Influencer,Women 35-44,15 days,Email,0.09,Naira,5.78,Abua,Malayalam,917,6552,8,Foodies,1/18/2021
+179157,Pixoboo,Display,All Ages,30 days,Facebook,0.08,Peso,3.81,Fundación,Northern Sotho,492,2081,8,Tech Enthusiasts,1/24/2021
+94580,Wikibox,Search,Women 25-34,45 days,Website,0.04,Yuan Renminbi,3.56,Taha Man Zu,Gujarati,795,4571,6,Tech Enthusiasts,1/15/2021
+83518,Skimia,Influencer,Men 25-34,45 days,Youtube,0.07,Yuan Renminbi,5.31,Gangsha,Mongolian,899,7018,6,Tech Enthusiasts,1/30/2021
+118825,Leenti,Display,Men 25-34,15 days,Instagram,0.02,Yuan Renminbi,4.56,Wangzuizi,Assamese,483,8270,4,Tech Enthusiasts,1/18/2021
+132164,Kwilith,Influencer,Women 25-34,45 days,Website,0.09,Real,7.17,Paulo Afonso,Assamese,477,3601,4,Outdoor Adventurers,1/7/2021
+138265,Riffpath,Email,All Ages,15 days,Email,0.06,Bolivar,6.44,San Pablo,Assamese,646,3998,10,Foodies,1/22/2021
+118226,Podcat,Email,Women 35-44,45 days,Google Ads,0.07,Won,4.1,Kangdong-ŭp,Haitian Creole,641,5091,5,Health & Wellness,1/27/2021
+177314,Feedmix,Search,Men 18-24,15 days,Google Ads,0.13,Zloty,5.04,Błonie,Korean,917,2905,6,Outdoor Adventurers,1/24/2021
+124090,Rhynoodle,Email,Men 25-34,15 days,Instagram,0.03,Real,7.53,Itaocara,Latvian,608,8580,3,Foodies,1/6/2021
+142600,Aimbu,Display,Men 25-34,30 days,Email,0.03,Yuan Renminbi,6.76,Xinhe,New Zealand Sign Language,524,5544,10,Outdoor Adventurers,1/30/2021
+114002,Bubbletube,Email,Women 35-44,30 days,Facebook,0.12,Yuan Renminbi,3.81,Tongquan,Dari,459,4344,6,Fashionistas,1/9/2021
+178587,Wordware,Email,Men 25-34,30 days,Youtube,0.08,Peso,3.57,Paagahan,Afrikaans,382,8514,6,Outdoor Adventurers,1/6/2021
+153722,Yodo,Email,All Ages,45 days,Facebook,0.08,Peso,3.07,Pandakan,Hebrew,954,5857,3,Tech Enthusiasts,1/18/2021
+109696,Dablist,Display,Women 25-34,60 days,Youtube,0.07,Yuan Renminbi,5.19,Wanjia,Khmer,927,6281,5,Health & Wellness,1/27/2021
+107538,Lazz,Search,Men 18-24,60 days,Website,0.09,Rupiah,4.6,Sumurgung,Yiddish,446,6358,6,Fashionistas,1/13/2021
+81394,Skilith,Search,Men 18-24,30 days,Instagram,0.09,Yuan Renminbi,4.92,Bor Ondor,Polish,973,3003,7,Foodies,1/12/2021
+181887,Centizu,Email,Men 25-34,60 days,Email,0.05,Rupiah,5.16,Laban,Dari,863,7155,3,Tech Enthusiasts,1/14/2021
+175531,Wikizz,Influencer,Men 18-24,15 days,Email,0.06,Rupiah,6.43,Dajanrurung,Hiri Motu,700,4460,9,Tech Enthusiasts,1/10/2021
+130158,Devshare,Influencer,Women 25-34,45 days,Email,0.07,Rupiah,4.74,Losari,Persian,664,8642,5,Health & Wellness,1/21/2021
+83948,Zooxo,Influencer,Men 18-24,30 days,Website,0.13,Ariary,3.49,Antsirabe,Dari,640,3576,7,Fashionistas,1/21/2021
+118146,Wikizz,Email,Women 35-44,15 days,Google Ads,0.08,Rial,6.82,Jahrom,Tetum,615,5212,8,Tech Enthusiasts,1/27/2021
+119354,Mydeo,Search,All Ages,60 days,Youtube,0.08,Yuan Renminbi,6.18,Huaminglou,Somali,735,2336,3,Fashionistas,1/18/2021
+134978,Youspan,Email,Men 18-24,15 days,Email,0.09,Euro,7.11,Palaiochóri,Portuguese,455,8987,3,Outdoor Adventurers,1/17/2021
+160033,Avaveo,Influencer,Men 18-24,15 days,Facebook,0.08,Yuan Renminbi,4.16,Danyang,Dari,727,7259,8,Fashionistas,1/11/2021
+82341,Kazu,Influencer,Men 25-34,15 days,Google Ads,0.05,Peso,7.28,Samboan,Latvian,786,4443,4,Outdoor Adventurers,1/17/2021
+109084,Wordpedia,Influencer,Men 18-24,30 days,Youtube,0.09,Yuan Renminbi,5.78,Jingyao,Spanish,520,2487,7,Outdoor Adventurers,1/15/2021
+165457,Wikibox,Search,Women 35-44,30 days,Website,0.1,Kwacha,2.56,Blantyre,Danish,969,7854,6,Outdoor Adventurers,1/15/2021
+162074,Jabbertype,Search,Men 18-24,60 days,Website,0.02,Koruna,6.24,Studénka,Punjabi,659,4537,4,Tech Enthusiasts,1/16/2021
+117716,Minyx,Influencer,Men 18-24,45 days,Email,0.1,Manat,4.74,Qızılhacılı,Assamese,891,2797,5,Tech Enthusiasts,1/16/2021
+75060,Kwilith,Influencer,All Ages,45 days,Google Ads,0.05,Franc,3.01,Dapaong,Bosnian,533,5095,5,Fashionistas,1/14/2021
+120197,Skiba,Display,Women 35-44,15 days,Instagram,0.03,Ariary,3.85,Ambatondrazaka,Afrikaans,641,2792,10,Foodies,1/22/2021
+70684,Fiveclub,Search,Women 25-34,15 days,Google Ads,0.03,Peso,4.39,Liwan,Arabic,652,2942,8,Tech Enthusiasts,1/13/2021
+104286,Linktype,Email,Women 25-34,60 days,Email,0.03,Yuan Renminbi,4.45,Xiayang,Georgian,593,7720,6,Foodies,1/5/2021
+141768,Gigazoom,Email,Men 25-34,30 days,Website,0.02,Yuan Renminbi,6.44,Houzhai,Malagasy,948,1728,10,Foodies,1/24/2021
+102759,Aimbo,Influencer,Men 25-34,30 days,Youtube,0.03,Rupiah,2.87,Grujugan,Māori,609,1628,5,Outdoor Adventurers,1/29/2021
+155403,Yodel,Display,Women 35-44,30 days,Youtube,0.03,Euro,4.17,Tapada das Mercês,French,796,7470,7,Tech Enthusiasts,1/27/2021
+131005,Tazz,Influencer,All Ages,15 days,Facebook,0.07,Rupiah,7.35,Laka,Ndebele,953,6342,10,Foodies,1/22/2021
+161224,Demimbu,Search,Women 25-34,15 days,Youtube,0.05,Pula,7.37,Ramotswa,Belarusian,816,6886,10,Foodies,1/10/2021
+142170,Wikivu,Influencer,Men 18-24,45 days,Google Ads,0.12,Euro,5.39,Saint-Quentin-en-Yvelines,Catalan,378,3597,3,Tech Enthusiasts,1/2/2021
+160229,Blogtag,Email,All Ages,15 days,Instagram,0.12,Yuan Renminbi,6.64,Luyi,Italian,859,4190,8,Tech Enthusiasts,1/26/2021
+140615,Fliptune,Influencer,Women 35-44,15 days,Instagram,0.05,Peso,5.63,Dugcal,German,482,7103,6,Health & Wellness,1/13/2021
+90030,Meevee,Display,All Ages,60 days,Email,0.06,Franc,3.77,Boulsa,Luxembourgish,384,2496,7,Foodies,1/20/2021
+148810,Blogtag,Display,All Ages,30 days,Instagram,0.12,Yuan Renminbi,4.59,Sancha,Lao,816,3431,10,Foodies,1/28/2021
+176611,Realcube,Influencer,Women 25-34,45 days,Google Ads,0.05,Franc,3.21,Pointe-Noire,Norwegian,863,6652,5,Fashionistas,1/29/2021
+170583,Trudeo,Display,All Ages,45 days,Website,0.04,Ruble,6.42,Novozavidovskiy,Filipino,649,2315,10,Fashionistas,1/27/2021
+118414,Dabtype,Search,Women 35-44,15 days,Facebook,0.04,Rial,6.69,Āl Ma‘ūdah,Bosnian,850,7789,3,Health & Wellness,1/18/2021
+83354,Skipstorm,Search,Women 35-44,30 days,Facebook,0.09,Ruble,6.01,Burtunay,Papiamento,722,3798,4,Foodies,1/12/2021
+97420,Tagcat,Display,Men 18-24,60 days,Youtube,0.03,Rand,2.49,Mokopane,English,403,7506,3,Health & Wellness,1/8/2021
+186309,Devpoint,Search,Men 18-24,30 days,Facebook,0.03,Rupiah,6.77,Singojuruh,Hindi,420,8955,8,Outdoor Adventurers,1/23/2021
+94529,Plajo,Display,Women 35-44,30 days,Google Ads,0.09,Rupiah,6.69,Angkahgede,Bengali,539,7476,4,Fashionistas,1/4/2021
+170580,Livepath,Display,Women 35-44,60 days,Email,0.07,Rial,5.22,Khawrah,Malay,579,3033,8,Health & Wellness,1/29/2021
+71508,Trudoo,Email,Men 25-34,15 days,Instagram,0.03,Rupiah,5.17,Gununglarang,Polish,775,2815,10,Foodies,1/5/2021
+130887,Jabbertype,Display,Women 25-34,45 days,Email,0.1,Yen,5.61,Miura,Bengali,632,5340,7,Foodies,1/19/2021
+144187,Oyoyo,Email,Women 25-34,30 days,Instagram,0.04,Yuan Renminbi,5.17,Gaozhou,Tamil,765,2855,7,Foodies,1/3/2021
+117511,Oloo,Display,Women 35-44,45 days,Youtube,0.13,Lempira,2.92,Orocuina,Latvian,362,3290,3,Outdoor Adventurers,1/5/2021
+135850,Bubbletube,Email,Women 35-44,15 days,Website,0.08,Koruna,5.7,Javorník,Portuguese,514,4745,3,Tech Enthusiasts,1/18/2021
+149488,Jayo,Search,Men 25-34,15 days,Instagram,0.03,Koruna,4.77,Kunčice pod Ondřejníkem,Haitian Creole,581,2278,10,Tech Enthusiasts,1/30/2021
+161396,Aivee,Display,Men 25-34,60 days,Website,0.05,Zloty,7.52,Działdowo,Armenian,810,5454,3,Health & Wellness,1/21/2021
+147651,Layo,Display,Women 25-34,45 days,Website,0.05,Rupiah,7.47,Ketapang,Bengali,954,7595,8,Health & Wellness,1/26/2021
+170532,Ntag,Display,All Ages,15 days,Youtube,0.02,Peso,4.3,Andalan,Guaraní,595,5418,5,Foodies,1/9/2021
+86860,Devpoint,Email,All Ages,60 days,Email,0.06,Gourde,7.06,Dame-Marie,Tamil,447,6921,8,Outdoor Adventurers,1/28/2021
+143550,Myworks,Display,Men 18-24,15 days,Google Ads,0.1,Yuan Renminbi,3.46,Liulang,Indonesian,591,5006,10,Health & Wellness,1/30/2021
+156619,Kamba,Search,All Ages,15 days,Youtube,0.06,Rupiah,7.31,Cibeureum,Persian,756,5709,10,Health & Wellness,1/25/2021
+158233,Skyba,Search,All Ages,60 days,Youtube,0.05,Euro,4.31,Fylí,Finnish,565,2941,7,Outdoor Adventurers,1/21/2021
+171910,LiveZ,Email,Men 25-34,60 days,Instagram,0.09,Real,4.68,Brodósqui,Filipino,495,3780,3,Tech Enthusiasts,1/11/2021
+179358,Brightdog,Email,Women 35-44,15 days,Instagram,0.11,Krona,7.54,Lidingö,Dhivehi,503,5256,10,Health & Wellness,1/27/2021
+129217,Shuffledrive,Influencer,Women 35-44,45 days,Facebook,0.05,Euro,7.47,Verba,Bislama,646,7291,5,Outdoor Adventurers,1/28/2021
+97538,Riffpath,Influencer,Men 18-24,45 days,Website,0.11,Dinar,7.5,Hīt,Malay,721,4009,8,Foodies,1/19/2021
+183957,Zazio,Email,Men 25-34,60 days,Website,0.04,Real,4.04,Formosa,Tsonga,894,6609,5,Foodies,1/21/2021
+153890,Aimbu,Search,Men 25-34,45 days,Email,0.05,Euro,3.47,Vierzon,Swati,416,8744,5,Tech Enthusiasts,1/29/2021
+92650,Yacero,Influencer,Men 18-24,45 days,Facebook,0.04,Yuan Renminbi,4.05,Anhai,Polish,924,7555,8,Fashionistas,1/3/2021
+87596,Voonte,Display,Men 25-34,30 days,Email,0.13,Euro,7.15,Dublin,Tswana,556,2710,4,Outdoor Adventurers,1/29/2021
+98635,Gigashots,Search,All Ages,30 days,Youtube,0.1,Euro,6.56,Almargem do Bispo,Māori,475,4670,6,Foodies,1/15/2021
+142896,Babbleopia,Search,Men 25-34,15 days,Website,0.03,Rupiah,3.33,Selorejo,Malagasy,443,6824,8,Health & Wellness,1/23/2021
+120152,Twitterworks,Email,Women 25-34,30 days,Facebook,0.12,Real,6.32,Itaperuçu,Quechua,877,7534,7,Tech Enthusiasts,1/3/2021
+112539,Twitternation,Email,Men 18-24,15 days,Email,0.07,Real,5.32,Barão de Cocais,Hindi,689,8324,3,Health & Wellness,1/9/2021
+91899,Vinder,Search,All Ages,45 days,Google Ads,0.12,Yuan Renminbi,6.65,Shuiyin,Afrikaans,765,8229,8,Health & Wellness,1/27/2021
+158444,Roombo,Display,Men 18-24,30 days,Email,0.06,Rupee,6.07,Quartier Militaire,Montenegrin,880,4750,3,Outdoor Adventurers,1/16/2021
+124922,Omba,Email,Men 25-34,15 days,Youtube,0.13,Euro,3.37,Estrada,Dutch,527,7898,9,Fashionistas,1/23/2021
+106831,Youfeed,Email,Women 25-34,15 days,Instagram,0.08,Krona,5.5,Bromma,Hungarian,723,8632,6,Tech Enthusiasts,1/13/2021
+92725,Skibox,Email,Women 35-44,15 days,Instagram,0.05,Colon,4.48,Aserrí,Nepali,570,6651,10,Fashionistas,1/25/2021
+168880,Eimbee,Search,Men 25-34,60 days,Google Ads,0.04,Lek,7.09,Shijak,Malay,772,5246,10,Outdoor Adventurers,1/6/2021
+123944,Roombo,Display,Women 25-34,60 days,Instagram,0.11,Peso,6.64,Luis Donaldo Colosio,Kazakh,787,4400,7,Tech Enthusiasts,1/23/2021
+185698,Fivespan,Display,Men 25-34,45 days,Google Ads,0.12,Rupiah,4.84,Sindangsari,Icelandic,747,3997,8,Fashionistas,1/22/2021
+154748,Digitube,Email,Men 18-24,15 days,Email,0.1,Peso,2.68,Mananum,Gujarati,913,1738,6,Tech Enthusiasts,1/26/2021
+76941,Plajo,Display,Women 25-34,60 days,Google Ads,0.13,Hryvnia,7.28,Bezlyudivka,Romanian,820,2466,4,Tech Enthusiasts,1/27/2021
+94550,Shuffletag,Search,All Ages,45 days,Facebook,0.1,Lev,6.51,Kazanlŭk,Māori,946,1969,5,Health & Wellness,1/6/2021
+173449,Feedmix,Search,Men 18-24,45 days,Google Ads,0.11,Euro,3.2,Tála,Tetum,819,2333,3,Fashionistas,1/7/2021
+128810,Shuffletag,Influencer,Women 35-44,30 days,Google Ads,0.1,Krona,5.14,Göteborg,Kyrgyz,422,3696,6,Outdoor Adventurers,1/18/2021
+170793,Tagtune,Influencer,Women 35-44,45 days,Website,0.11,Peso,2.55,General Luna,Kazakh,864,5919,4,Fashionistas,1/12/2021
+87235,Yodoo,Email,Men 18-24,30 days,Youtube,0.04,Cordoba,7.14,Belén,Luxembourgish,541,8110,6,Foodies,1/22/2021
+158683,Omba,Influencer,Women 35-44,45 days,Website,0.04,Ruble,7.3,Dzerzhinsk,Papiamento,701,7899,8,Foodies,1/2/2021
+165523,Jaxspan,Influencer,Men 25-34,60 days,Google Ads,0.07,Bolivar,5.24,Guayabal,Finnish,949,2175,10,Outdoor Adventurers,1/10/2021
+130992,Eare,Influencer,All Ages,60 days,Google Ads,0.06,Dollar,5.48,Killarney,Burmese,493,6441,10,Foodies,1/27/2021
+97792,Divavu,Search,All Ages,30 days,Website,0.12,Yuan Renminbi,6.81,Yingyang,Latvian,990,7939,4,Foodies,1/22/2021
+145437,Kwilith,Search,Men 25-34,45 days,Email,0.06,Krone,6.83,Oslo,Swati,416,6349,6,Health & Wellness,1/3/2021
+143732,Roombo,Search,Women 35-44,15 days,Youtube,0.05,Euro,5.16,Prínos,Oriya,460,7357,9,Tech Enthusiasts,1/15/2021
+157383,Vitz,Search,Women 35-44,45 days,Facebook,0.13,Yuan Renminbi,3.44,Qincheng,Swahili,684,8917,10,Health & Wellness,1/2/2021
+76973,Kwilith,Email,Women 35-44,15 days,Instagram,0.03,Dollar,4.55,Atlanta,Korean,388,2011,3,Fashionistas,1/10/2021
+131786,Yadel,Influencer,Men 18-24,30 days,Instagram,0.08,Koruna,4.65,Lukavice,Icelandic,450,3601,7,Fashionistas,1/28/2021
+117519,Skaboo,Search,Women 25-34,45 days,Google Ads,0.04,Ruble,4.38,Ust’-Kut,Amharic,533,1710,7,Foodies,1/20/2021
+99680,Yoveo,Influencer,All Ages,30 days,Youtube,0.05,Zloty,3.2,Osiedle-Nowiny,Lao,764,1688,4,Tech Enthusiasts,1/4/2021
+101175,Dabfeed,Email,Women 25-34,30 days,Google Ads,0.03,Dobra,6.84,São Tomé,Kyrgyz,515,4294,6,Tech Enthusiasts,1/12/2021
+97777,Mydo,Display,Women 25-34,15 days,Instagram,0.02,Sol,7.52,Huayacundo Arma,Azeri,641,5050,3,Foodies,1/15/2021
+141390,Wikibox,Influencer,All Ages,15 days,Instagram,0.13,Zloty,5.49,Korsze,Fijian,633,6781,7,Tech Enthusiasts,1/8/2021
+130296,Zoonder,Display,Men 18-24,30 days,Instagram,0.07,Peso,3.08,Camajuaní,Pashto,653,4390,3,Fashionistas,1/4/2021
+94566,Linktype,Influencer,All Ages,45 days,Email,0.06,Peso,6.85,Bakung,English,376,6081,3,Foodies,1/1/2021
+112662,Meetz,Search,Men 25-34,15 days,Website,0.05,Balboa,6.24,Changuinola,Tswana,419,3786,10,Fashionistas,1/14/2021
+88161,Topicware,Email,All Ages,45 days,Email,0.05,Rupiah,6.37,Terbangan,Quechua,676,7311,3,Health & Wellness,1/9/2021
+137403,JumpXS,Search,All Ages,15 days,Facebook,0.12,Koruna,4.48,Kostelec nad Černými Lesy,Ndebele,727,3637,4,Outdoor Adventurers,1/2/2021
+89033,Eare,Influencer,Men 25-34,60 days,Youtube,0.02,Euro,7.13,Vermoim,Aymara,384,3723,6,Fashionistas,1/20/2021
+128824,Edgetag,Email,Men 18-24,45 days,Google Ads,0.08,Euro,5.05,Valladolid,Irish Gaelic,567,4363,5,Fashionistas,1/8/2021
+143016,Oodoo,Influencer,Men 25-34,45 days,Email,0.13,Euro,3.38,Novais,Malayalam,986,5550,5,Health & Wellness,1/7/2021
+130677,Realbridge,Influencer,Women 35-44,60 days,Google Ads,0.05,Rupiah,3.47,Ketangi,Greek,465,6542,10,Foodies,1/1/2021
+91839,Jaloo,Influencer,Men 25-34,15 days,Facebook,0.04,Yuan Renminbi,5.28,Dahuangwei,Gagauz,405,4653,6,Fashionistas,1/22/2021
+123516,Eare,Email,Women 25-34,45 days,Youtube,0.03,Yen,7.04,Karasuyama,Maltese,587,1793,10,Fashionistas,1/8/2021
+150775,Buzzdog,Search,Women 25-34,45 days,Youtube,0.04,Euro,6.16,Ul,Gujarati,562,3874,9,Outdoor Adventurers,1/25/2021
+126292,Kimia,Search,Men 18-24,45 days,Website,0.09,Ruble,2.77,Sernur,Persian,399,7884,7,Tech Enthusiasts,1/17/2021
+127671,Mybuzz,Influencer,Men 18-24,45 days,Youtube,0.09,Peso,5.55,Bolboc,Tsonga,376,4639,10,Health & Wellness,1/27/2021
+108274,Realcube,Influencer,Men 18-24,45 days,Instagram,0.04,Ruble,5.13,Selikhino,Hungarian,923,6872,7,Foodies,1/24/2021
+170380,Plambee,Display,Women 25-34,60 days,Website,0.11,Euro,6.73,Enonkoski,Malagasy,960,6393,4,Health & Wellness,1/15/2021
+100702,Meembee,Display,Men 25-34,60 days,Youtube,0.13,Euro,6.35,Taveiro,Indonesian,385,7223,9,Tech Enthusiasts,1/3/2021
+153368,Browsedrive,Influencer,Men 18-24,60 days,Website,0.12,Dollar,4.09,Chambly,Bengali,783,6334,6,Foodies,1/19/2021
+110456,Blogspan,Influencer,All Ages,60 days,Website,0.07,Colon,6.68,Guadalupe,Swedish,866,4535,5,Foodies,1/11/2021
+158635,Gevee,Influencer,Women 35-44,15 days,Google Ads,0.05,Dollar,3.1,Lincoln,Greek,577,2084,3,Foodies,1/25/2021
+133166,Trunyx,Email,Men 18-24,30 days,Instagram,0.03,Ruble,3.18,Suvorov,Malay,822,5853,8,Tech Enthusiasts,1/9/2021
+87539,Oyonder,Influencer,Men 18-24,60 days,Instagram,0.06,Pound,6.99,Buckland,Hungarian,884,4380,10,Foodies,1/20/2021
+156763,Gabcube,Influencer,Men 25-34,60 days,Facebook,0.12,Zloty,6.14,Stęszew,Lao,550,8908,7,Fashionistas,1/12/2021
+115836,Shuffletag,Search,Women 25-34,45 days,Facebook,0.06,Dollar,5.33,Nicola Town,Kyrgyz,615,7663,6,Tech Enthusiasts,1/3/2021
+87601,Twinder,Email,All Ages,30 days,Instagram,0.13,Manat,5.4,Ganja,Estonian,695,6362,3,Fashionistas,1/8/2021
+123307,Yozio,Search,Women 35-44,30 days,Facebook,0.13,Rial,3.7,Al Maḩfid,Kyrgyz,410,6557,8,Health & Wellness,1/30/2021
+175399,Wordtune,Display,Men 18-24,30 days,Facebook,0.08,Rupiah,3.66,Jambeyan,Thai,545,5981,10,Fashionistas,1/15/2021
+95513,Voonyx,Search,Men 18-24,45 days,Facebook,0.06,Krona,6.65,Helsingborg,French,832,1885,3,Health & Wellness,1/7/2021
+137857,Yodel,Display,All Ages,60 days,Youtube,0.06,Yuan Renminbi,6.9,Dongxiaokou,Afrikaans,692,7686,5,Tech Enthusiasts,1/22/2021
+115744,Edgeclub,Search,Men 25-34,30 days,Google Ads,0.04,Yuan Renminbi,2.7,Xianshui,Assamese,697,4054,6,Health & Wellness,1/2/2021
+70294,Midel,Email,All Ages,30 days,Youtube,0.06,Zloty,6.77,Obsza,German,712,5935,5,Tech Enthusiasts,1/10/2021
+185487,Kimia,Display,All Ages,30 days,Facebook,0.13,Ruble,7.42,Inta,Zulu,744,8860,10,Tech Enthusiasts,1/23/2021
+173327,Wikivu,Email,Women 25-34,30 days,Youtube,0.05,Peso,3.58,Andalan,Yiddish,647,7437,6,Health & Wellness,1/8/2021
+129144,Roodel,Influencer,Women 25-34,15 days,Email,0.05,Yuan Renminbi,4.86,Jinling,Marathi,481,5976,7,Tech Enthusiasts,1/2/2021
+109116,Devify,Email,Women 35-44,45 days,Youtube,0.12,Rupiah,3.08,Tajinan,Tswana,533,3600,5,Outdoor Adventurers,1/10/2021
+131761,Feedfish,Display,All Ages,30 days,Facebook,0.12,Yen,7.28,Arai,Burmese,539,7157,9,Tech Enthusiasts,1/30/2021
+93529,Edgeblab,Email,Men 25-34,15 days,Instagram,0.03,Krona,2.87,Täby,Punjabi,646,2572,3,Tech Enthusiasts,1/2/2021
+177462,Gabvine,Email,All Ages,15 days,Youtube,0.06,Euro,3.87,Novo,Thai,419,8433,5,Fashionistas,1/6/2021
+165565,Realfire,Search,Men 25-34,15 days,Youtube,0.05,Rupiah,3.43,Terangun,Zulu,457,6847,3,Fashionistas,1/11/2021
+104870,Kaymbo,Influencer,Women 35-44,45 days,Instagram,0.02,Krona,4.04,Linköping,Latvian,776,8680,9,Foodies,1/20/2021
+156684,Browseblab,Email,Men 18-24,60 days,Youtube,0.02,Real,6.59,Valença,Kyrgyz,564,7614,5,Tech Enthusiasts,1/22/2021
+177369,Agimba,Influencer,Men 25-34,30 days,Email,0.09,Euro,5.16,Bonneville,Czech,373,7251,9,Fashionistas,1/8/2021
+89717,Voonix,Search,Men 18-24,30 days,Website,0.07,Yuan Renminbi,6.61,Huifeng,Burmese,748,2350,4,Tech Enthusiasts,1/12/2021
+80594,Demivee,Display,Women 35-44,60 days,Facebook,0.07,Yuan Renminbi,6.65,Shihua,West Frisian,863,5806,4,Tech Enthusiasts,1/16/2021
+149389,Avavee,Influencer,All Ages,15 days,Google Ads,0.07,Euro,3.86,Vannes,Bulgarian,952,4591,5,Outdoor Adventurers,1/24/2021
+79281,Twimbo,Influencer,Men 18-24,45 days,Instagram,0.09,Euro,4.46,Chemnitz,Quechua,721,2800,3,Tech Enthusiasts,1/12/2021
+124884,Roomm,Display,Women 35-44,45 days,Google Ads,0.06,Som,7.15,Qozonketkan,German,382,6610,7,Tech Enthusiasts,1/13/2021
+101525,Viva,Display,Men 25-34,60 days,Instagram,0.05,Shilling,5.25,Bukomansimbi,Aymara,600,5083,8,Foodies,1/11/2021
+149806,Riffpedia,Email,Women 35-44,30 days,Email,0.07,Rupiah,6.83,Boncong,Pashto,734,5090,6,Foodies,1/23/2021
+77973,Jabbertype,Search,Men 25-34,30 days,Youtube,0.06,Ruble,5.42,Shatura,Somali,937,2290,8,Outdoor Adventurers,1/7/2021
+92782,Plajo,Email,Men 18-24,30 days,Google Ads,0.04,Yuan Renminbi,6.21,Baitu,Arabic,819,7609,4,Foodies,1/7/2021
+167448,Meevee,Influencer,Men 18-24,60 days,Facebook,0.05,Real,5.05,Carazinho,Northern Sotho,615,8018,3,Fashionistas,1/4/2021
+155664,Quamba,Email,Men 18-24,60 days,Google Ads,0.06,Yuan Renminbi,7.32,Bacun,Burmese,464,6350,5,Health & Wellness,1/7/2021
+160466,Chatterbridge,Influencer,All Ages,45 days,Email,0.07,Ruble,6.45,Staraya Derevnya,Persian,773,8655,3,Outdoor Adventurers,1/15/2021
+133489,Topicstorm,Display,Women 35-44,15 days,Instagram,0.11,Peso,7.42,Taganak,Khmer,705,8139,7,Health & Wellness,1/24/2021
+92442,Gabspot,Display,Women 35-44,60 days,Instagram,0.11,Peso,6.3,Port Area,Norwegian,584,7445,5,Health & Wellness,1/21/2021
+136562,Realpoint,Email,All Ages,15 days,Facebook,0.03,Euro,5.85,Kokkári,Malay,951,6137,8,Tech Enthusiasts,1/2/2021
+177960,Skinte,Email,Men 18-24,15 days,Facebook,0.11,Ruble,3.78,Lesnoye,Spanish,759,8605,3,Fashionistas,1/11/2021
+185262,Wordify,Display,Women 35-44,15 days,Instagram,0.05,Real,4.49,Aguaí,Marathi,562,6224,9,Health & Wellness,1/25/2021
+162266,Topicstorm,Influencer,All Ages,45 days,Facebook,0.05,Ruble,4.18,Storozhevaya,English,958,3866,10,Outdoor Adventurers,1/4/2021
+70102,Wikivu,Influencer,Men 18-24,60 days,Instagram,0.09,Real,4.45,Salinópolis,Mongolian,817,1994,10,Tech Enthusiasts,1/12/2021
+168508,Topicblab,Influencer,All Ages,60 days,Facebook,0.11,Euro,5.2,Vale Mourão,Thai,702,5733,4,Health & Wellness,1/14/2021
+167863,Dablist,Email,Men 25-34,60 days,Email,0.13,Dollar,4.42,Skatepark,Bislama,700,6474,10,Outdoor Adventurers,1/20/2021
+140772,Feedmix,Display,Men 18-24,30 days,Google Ads,0.04,Yen,3.84,Yanagawamachi-saiwaichō,Hebrew,947,8054,7,Tech Enthusiasts,1/3/2021
+181382,Dynabox,Email,Men 18-24,45 days,Google Ads,0.06,Peso,6.56,Salamanca,Spanish,811,1781,6,Outdoor Adventurers,1/20/2021
+161010,Kanoodle,Display,Women 25-34,60 days,Email,0.11,Peso,3.93,Bayuin,Moldovan,930,2052,10,Tech Enthusiasts,1/9/2021
+144424,Vimbo,Display,Women 25-34,30 days,Youtube,0.08,Yuan Renminbi,7.54,Yanwan,Danish,942,2009,8,Health & Wellness,1/3/2021
+106497,Leexo,Influencer,All Ages,30 days,Facebook,0.05,Rupiah,4.77,Rancakuya,Hiri Motu,670,1937,7,Outdoor Adventurers,1/28/2021
+174157,Devcast,Email,All Ages,60 days,Youtube,0.11,Hryvnia,3.01,Zarya,Fijian,660,2881,7,Foodies,1/29/2021
+168810,Wikido,Email,Men 18-24,60 days,Website,0.09,Zloty,6.31,Wleń,Quechua,454,6226,9,Health & Wellness,1/20/2021
+158585,Bubbletube,Email,All Ages,60 days,Google Ads,0.12,Dollar,4.57,Kindersley,Swedish,868,1741,9,Outdoor Adventurers,1/30/2021
+182920,Roomm,Influencer,Women 25-34,30 days,Google Ads,0.09,Zloty,6.1,Wielgie,Tswana,943,4516,6,Fashionistas,1/7/2021
+184922,Dazzlesphere,Display,All Ages,30 days,Email,0.04,Real,6.85,Araucária,Italian,946,8555,9,Fashionistas,1/22/2021
+90722,Flashpoint,Search,Men 18-24,45 days,Facebook,0.13,Baht,4.48,Chanuman,Oriya,477,3628,6,Foodies,1/16/2021
+122766,Camido,Email,Men 25-34,45 days,Google Ads,0.03,Yuan Renminbi,3.27,Henglu,Romanian,524,5957,7,Health & Wellness,1/28/2021
+151717,Skaboo,Display,Women 25-34,45 days,Instagram,0.08,Peso,5.47,Irasan,Tajik,697,2509,5,Fashionistas,1/29/2021
+155802,Katz,Email,All Ages,45 days,Google Ads,0.04,Yuan Renminbi,5.06,Henggang,Amharic,503,3663,5,Outdoor Adventurers,1/6/2021
+139973,Skinix,Influencer,All Ages,60 days,Website,0.11,Rupiah,5.04,Pembuanghulu,Indonesian,666,8939,9,Tech Enthusiasts,1/19/2021
+176677,Meevee,Influencer,Women 35-44,30 days,Instagram,0.05,Zloty,6.62,Siedliska,Tajik,526,6453,4,Outdoor Adventurers,1/17/2021
+129756,Topiczoom,Influencer,All Ages,45 days,Website,0.1,Ngultrum,2.97,Mongar,Sotho,779,3098,7,Health & Wellness,1/20/2021
+70427,Skidoo,Influencer,Men 18-24,60 days,Facebook,0.02,Dollar,4.4,Napier,Burmese,789,2720,10,Tech Enthusiasts,1/10/2021
+70500,Feedfish,Email,Women 35-44,45 days,Youtube,0.06,Ruble,5.4,Nyandoma,Italian,746,1866,7,Health & Wellness,1/25/2021
+140278,Realfire,Display,Women 25-34,15 days,Facebook,0.11,Peso,3.76,Los Andes,Bulgarian,418,5771,8,Tech Enthusiasts,1/19/2021
+119953,Gabvine,Display,Women 25-34,15 days,Instagram,0.13,Peso,2.7,Cavinti,Malayalam,382,8441,3,Health & Wellness,1/30/2021
+156548,Zoombeat,Influencer,Women 35-44,30 days,Google Ads,0.12,Zloty,4.63,Świnice Warckie,Northern Sotho,670,2606,3,Fashionistas,1/23/2021
+115402,Avaveo,Email,All Ages,45 days,Youtube,0.09,Peso,3.15,San Andres,Spanish,882,5984,3,Fashionistas,1/22/2021
+136981,Topicshots,Search,All Ages,45 days,Instagram,0.13,Pound,5.48,Būr Safājah,Yiddish,500,5603,8,Outdoor Adventurers,1/30/2021
+156648,Jaxworks,Display,All Ages,30 days,Facebook,0.09,Peso,5.44,Mainit,Bosnian,435,4381,6,Tech Enthusiasts,1/11/2021
+74549,Flashpoint,Email,Women 25-34,45 days,Google Ads,0.13,Euro,2.73,Kopstal,Tswana,466,6990,6,Tech Enthusiasts,1/8/2021
+159792,Tazz,Influencer,Women 35-44,15 days,Website,0.12,Rupiah,7.07,Hegarmulya,Bosnian,542,6695,6,Fashionistas,1/13/2021
+109781,Topiclounge,Influencer,Men 18-24,15 days,Email,0.08,Yuan Renminbi,5.52,Sankui,Kannada,594,4772,9,Tech Enthusiasts,1/30/2021
+157557,Yakijo,Display,Men 25-34,15 days,Facebook,0.04,Peso,6.99,San Vicente,Indonesian,510,5516,10,Fashionistas,1/2/2021
+85601,Latz,Display,Men 18-24,45 days,Website,0.03,Krone,2.77,Bergen,Bulgarian,387,6412,3,Foodies,1/27/2021
+136325,Fivechat,Search,Men 18-24,45 days,Instagram,0.09,Euro,6.58,Lyon,Kannada,755,5928,5,Fashionistas,1/4/2021
+80896,Jabberstorm,Display,Men 18-24,15 days,Email,0.12,Dollar,4.69,Fort Wayne,Māori,390,1857,8,Fashionistas,1/14/2021
+75206,Skyndu,Search,Women 35-44,30 days,Google Ads,0.13,Franc,4.06,Comé,New Zealand Sign Language,965,7472,10,Outdoor Adventurers,1/25/2021
+153526,Realbridge,Display,Women 25-34,60 days,Instagram,0.08,Zloty,5.63,Skarbimierz Osiedle,Aymara,878,3002,7,Outdoor Adventurers,1/27/2021
+132135,Jaxworks,Email,Women 35-44,30 days,Google Ads,0.05,Euro,4.85,Padre Nabeto,Georgian,929,5595,4,Health & Wellness,1/11/2021
+127043,Thoughtblab,Influencer,Men 18-24,15 days,Website,0.02,Yuan Renminbi,6.08,Sanchang,Tamil,752,8772,5,Health & Wellness,1/15/2021
+142250,Mymm,Influencer,Women 35-44,60 days,Google Ads,0.07,Ruble,5.12,Saraktash,Thai,718,8516,7,Fashionistas,1/18/2021
+144389,Jayo,Search,Women 35-44,30 days,Website,0.09,Peso,6.03,Tinambac,Hungarian,951,5297,5,Foodies,1/21/2021
+153310,Photolist,Influencer,Men 25-34,45 days,Instagram,0.04,Euro,2.59,Angoulême,French,523,5691,9,Outdoor Adventurers,1/28/2021
+183873,Quinu,Email,Men 25-34,60 days,Google Ads,0.11,Euro,4.2,Serra de Água,Somali,744,2649,3,Tech Enthusiasts,1/9/2021
+174377,Minyx,Influencer,Women 35-44,15 days,Youtube,0.09,Real,3.11,Amargosa,Irish Gaelic,581,5585,4,Foodies,1/11/2021
+141194,Wikido,Search,Women 25-34,15 days,Google Ads,0.06,Yuan Renminbi,3.74,Henglin,Kashmiri,750,2318,9,Outdoor Adventurers,1/5/2021
+72523,Midel,Search,All Ages,30 days,Youtube,0.03,Yuan Renminbi,6.59,Rinang,Fijian,864,6406,5,Health & Wellness,1/9/2021
+115479,Midel,Display,Men 18-24,30 days,Instagram,0.02,Peso,2.57,Juan Adrián,Czech,637,3635,8,Foodies,1/2/2021
+128216,Brainsphere,Influencer,Men 18-24,60 days,Facebook,0.13,Kwacha,3.03,Namwala,Thai,872,5763,7,Foodies,1/20/2021
+94939,Quamba,Email,All Ages,15 days,Instagram,0.09,Yuan Renminbi,2.57,Hou’an,Filipino,503,2438,9,Health & Wellness,1/29/2021
+80460,Skimia,Influencer,Men 25-34,30 days,Email,0.05,Euro,5.87,Antas,Bosnian,476,2735,3,Outdoor Adventurers,1/5/2021
+135180,Browsecat,Search,All Ages,60 days,Facebook,0.06,Euro,6.88,Digne-les-Bains,Tswana,826,4678,3,Health & Wellness,1/3/2021
+75250,Skipstorm,Display,Men 25-34,45 days,Youtube,0.04,Baht,2.8,Wang Nam Khiao,Assamese,567,2770,5,Health & Wellness,1/11/2021
+151310,Katz,Email,Men 25-34,15 days,Website,0.04,Dollar,3.14,Lakeland,Albanian,621,1903,7,Foodies,1/24/2021
+131246,Demizz,Influencer,Men 25-34,60 days,Email,0.1,Yuan Renminbi,5.2,Zhuangke,Lao,382,6390,8,Fashionistas,1/26/2021
+116372,Dynava,Display,Women 25-34,45 days,Email,0.1,Rupiah,2.67,Singasari,New Zealand Sign Language,886,7747,6,Outdoor Adventurers,1/2/2021
+101039,Eabox,Display,Men 25-34,45 days,Email,0.1,Franc,5.49,Muramvya,Bislama,758,7991,10,Tech Enthusiasts,1/26/2021
+73613,Ainyx,Influencer,Men 25-34,60 days,Instagram,0.03,Euro,5.52,Covão,Quechua,685,7840,8,Fashionistas,1/22/2021
+70558,Tagpad,Display,Men 18-24,30 days,Facebook,0.1,Euro,3.73,Zasip,Telugu,411,4856,5,Health & Wellness,1/3/2021
+159988,Dynabox,Email,Women 35-44,30 days,Instagram,0.12,Dong,3.16,Thị Trấn Hà Trung,Georgian,611,8257,4,Health & Wellness,1/12/2021
+110698,Quatz,Email,Men 25-34,15 days,Google Ads,0.04,Yuan Renminbi,7.18,Nianyushan,Japanese,386,2799,3,Tech Enthusiasts,1/13/2021
+77661,Lajo,Influencer,Men 25-34,45 days,Email,0.11,Naira,5.39,Saki,Latvian,700,3212,5,Outdoor Adventurers,1/25/2021
+177262,Kwimbee,Email,Men 18-24,30 days,Website,0.08,Afghani,7.17,Qarqīn,Dari,534,7678,5,Outdoor Adventurers,1/27/2021
+178847,Devpoint,Influencer,All Ages,15 days,Youtube,0.06,Euro,3.3,Isniq,Papiamento,555,8768,4,Tech Enthusiasts,1/4/2021
+101099,Quatz,Search,Men 18-24,45 days,Youtube,0.04,Euro,5.26,Köln,Romanian,638,2799,5,Tech Enthusiasts,1/20/2021
+172099,InnoZ,Email,All Ages,45 days,Youtube,0.1,Bolivar,4.69,Queniquea,Malagasy,892,7511,7,Outdoor Adventurers,1/22/2021
+166932,Tazzy,Search,Women 25-34,45 days,Google Ads,0.08,Euro,6.42,Loutrá,Malagasy,657,7318,6,Health & Wellness,1/1/2021
+177276,Thoughtbeat,Influencer,Men 25-34,15 days,Website,0.07,Dollar,6.81,Belleville,Arabic,742,4708,3,Health & Wellness,1/22/2021
+104129,Buzzster,Email,All Ages,60 days,Instagram,0.04,Yuan Renminbi,4.63,Wujing,Northern Sotho,571,6641,4,Outdoor Adventurers,1/13/2021
+106262,Zava,Search,Men 25-34,45 days,Website,0.06,Lek,4.44,Rrapë,Guaraní,809,3109,7,Fashionistas,1/10/2021
+184921,Midel,Display,All Ages,15 days,Email,0.09,Lek,5.4,Dajt,Danish,736,7415,5,Tech Enthusiasts,1/21/2021
+143722,Katz,Influencer,All Ages,15 days,Website,0.12,Ruble,6.75,Novyye Kuz’minki,Oriya,912,7996,4,Tech Enthusiasts,1/15/2021
+84005,Jabbersphere,Email,Men 25-34,15 days,Email,0.09,Quetzal,6.1,Concepción Tutuapa,Punjabi,584,6275,8,Outdoor Adventurers,1/30/2021
+129423,Devpoint,Influencer,Women 25-34,45 days,Website,0.03,Yuan Renminbi,4.74,Lidong,Tsonga,922,4215,10,Health & Wellness,1/26/2021
+130852,Kare,Display,Men 18-24,45 days,Facebook,0.13,Pound,4.39,Tālīn,Czech,959,4638,6,Outdoor Adventurers,1/25/2021
+167270,Camimbo,Influencer,Women 35-44,30 days,Email,0.13,Euro,4.46,Mantes-la-Jolie,Aymara,470,7727,8,Fashionistas,1/9/2021
+112034,Blogspan,Influencer,Men 18-24,15 days,Google Ads,0.13,Krona,2.56,Åtvidaberg,Malagasy,471,2463,9,Fashionistas,1/12/2021
+175020,Brightbean,Influencer,Women 35-44,15 days,Google Ads,0.05,Euro,5.34,Loúros,Dutch,552,6532,3,Outdoor Adventurers,1/5/2021
+186169,Meetz,Display,All Ages,30 days,Facebook,0.1,Peso,6.74,Lusacan,Portuguese,579,5951,5,Foodies,1/12/2021
+73263,Fanoodle,Display,Women 25-34,45 days,Google Ads,0.04,Dinar,6.56,Al Metlaoui,Dari,819,5855,10,Foodies,1/8/2021
+121777,Oyoyo,Search,Men 18-24,30 days,Youtube,0.05,Yuan Renminbi,3.37,Wu’an,Lao,811,3984,9,Foodies,1/6/2021
+145236,Twitterlist,Email,Men 25-34,15 days,Website,0.12,Euro,2.64,Athy,New Zealand Sign Language,855,6874,10,Tech Enthusiasts,1/15/2021
+123372,Ozu,Display,Women 25-34,60 days,Youtube,0.03,Naira,7.22,Boje,Croatian,687,1661,6,Foodies,1/5/2021
+104456,Quatz,Search,Women 35-44,60 days,Website,0.09,Franc,5.58,Kandi,Maltese,902,8118,9,Health & Wellness,1/14/2021
+105879,Vimbo,Email,Women 25-34,60 days,Facebook,0.03,Ruble,4.05,Mesyagutovo,Burmese,364,6183,8,Fashionistas,1/17/2021
+71389,Edgeclub,Email,Women 25-34,60 days,Instagram,0.06,Yuan Renminbi,5.28,Jiuxi,English,645,2768,7,Tech Enthusiasts,1/12/2021
+140323,Kamba,Email,Men 25-34,60 days,Email,0.03,Peso,3.84,Miguel Hidalgo,Chinese,640,7833,3,Foodies,1/11/2021
+182512,Quinu,Email,Women 35-44,60 days,Instagram,0.09,Zloty,5.52,Gryfino,Gujarati,873,2787,5,Health & Wellness,1/23/2021
+174573,Oba,Search,All Ages,60 days,Youtube,0.08,Peso,4.96,Baclayon,Danish,398,8626,3,Tech Enthusiasts,1/6/2021
+99929,Oodoo,Influencer,Men 25-34,60 days,Email,0.02,Zloty,5.9,Rudnik,Georgian,744,1736,10,Outdoor Adventurers,1/29/2021
+134110,Chatterbridge,Influencer,Women 25-34,45 days,Google Ads,0.08,Real,5.54,Chã Grande,Persian,977,3338,8,Health & Wellness,1/18/2021
+95043,Vinder,Influencer,Men 25-34,60 days,Instagram,0.09,Forint,3.26,Debrecen,Māori,384,3325,9,Health & Wellness,1/15/2021
+171596,Skynoodle,Search,Men 25-34,45 days,Website,0.04,Yuan Renminbi,4.34,Qiantang,Tamil,850,6167,5,Foodies,1/19/2021
+72843,Quaxo,Email,Men 25-34,15 days,Instagram,0.09,Rupiah,3.98,Nangkapayung,Papiamento,425,1958,7,Health & Wellness,1/27/2021
+86589,Eimbee,Email,Men 18-24,45 days,Google Ads,0.05,Yen,2.6,Hanyū,Czech,606,5530,4,Fashionistas,1/15/2021
+181146,Vinte,Influencer,Men 18-24,60 days,Facebook,0.03,Yen,3.51,Ueda,Hindi,892,5788,6,Health & Wellness,1/16/2021
+104816,Livetube,Email,All Ages,45 days,Website,0.11,Euro,6.37,Pristina,Macedonian,560,5228,6,Tech Enthusiasts,1/3/2021
+90930,Jaloo,Influencer,Men 25-34,60 days,Youtube,0.07,Krona,2.97,Hisings Kärra,Northern Sotho,815,1649,10,Tech Enthusiasts,1/17/2021
+148221,Kwideo,Influencer,Men 18-24,45 days,Email,0.02,Euro,3.85,Metz,Fijian,445,3319,9,Fashionistas,1/11/2021
+75019,Oyondu,Display,Women 25-34,45 days,Youtube,0.11,Kwanza,3.07,Luau,Dari,525,2541,6,Fashionistas,1/3/2021
+92662,Mudo,Influencer,Men 18-24,45 days,Website,0.11,Yuan Renminbi,3.62,Xinji,Bislama,532,7437,7,Outdoor Adventurers,1/27/2021
+175229,Eare,Display,All Ages,60 days,Google Ads,0.1,Yuan Renminbi,2.59,Ning’er,Pashto,522,6116,8,Foodies,1/14/2021
+150344,Photobean,Search,Men 18-24,15 days,Facebook,0.1,Ruble,4.12,Stanovoye,Haitian Creole,961,8213,4,Health & Wellness,1/25/2021
+88687,Realblab,Email,Women 35-44,45 days,Google Ads,0.08,Dollar,3.88,Maniwaki,Dari,399,5997,5,Health & Wellness,1/4/2021
+158307,Janyx,Search,Women 25-34,60 days,Instagram,0.03,Rupiah,6.38,Puunage,Hiri Motu,958,2911,4,Tech Enthusiasts,1/13/2021
+92090,Oyoloo,Email,Men 18-24,30 days,Website,0.09,Yuan Renminbi,4.9,Hai’an,Hebrew,459,4291,9,Health & Wellness,1/19/2021
+135128,Quatz,Email,Women 35-44,60 days,Facebook,0.05,Yuan Renminbi,4.3,Hanyuan,New Zealand Sign Language,872,4569,4,Fashionistas,1/6/2021
+110663,Kanoodle,Influencer,All Ages,60 days,Email,0.06,Yuan Renminbi,4.08,Lujiao,Italian,784,2142,7,Foodies,1/28/2021
+94428,BlogXS,Search,Men 25-34,30 days,Instagram,0.1,Yuan Renminbi,3.02,Shihuiyao,Gagauz,959,3674,6,Fashionistas,1/7/2021
+97887,Twitternation,Email,All Ages,45 days,Email,0.06,Peso,4.21,Cali,Irish Gaelic,645,2476,3,Outdoor Adventurers,1/16/2021
+124936,Divanoodle,Display,Women 35-44,45 days,Instagram,0.1,Ruble,4.8,Turets-Bayary,Persian,937,7756,3,Outdoor Adventurers,1/22/2021
+147722,Shuffletag,Search,All Ages,15 days,Facebook,0.12,Peso,7.36,Magisterial,Papiamento,801,7346,10,Outdoor Adventurers,1/27/2021
+164307,Feedmix,Display,Men 18-24,60 days,Facebook,0.11,Yuan Renminbi,3.49,Shuqiao,Finnish,483,4900,10,Health & Wellness,1/30/2021
+155384,Centizu,Search,Men 25-34,60 days,Website,0.07,Peso,3.98,Las Toscas,West Frisian,847,1751,9,Health & Wellness,1/24/2021
+186260,Skiptube,Search,Women 35-44,60 days,Youtube,0.03,Peso,2.97,Peña,Dzongkha,598,5715,7,Foodies,1/13/2021
+108158,Zoomcast,Search,Men 25-34,45 days,Facebook,0.03,Yuan Renminbi,4.74,Hujiagou,Kazakh,951,5777,5,Fashionistas,1/19/2021
+176941,Gabtune,Influencer,Women 35-44,15 days,Google Ads,0.05,Rupiah,6.48,Panimbang,Ndebele,753,2297,4,Health & Wellness,1/11/2021
+99694,JumpXS,Display,Men 25-34,45 days,Instagram,0.04,Peso,7.1,Río Bueno,Latvian,551,8241,7,Outdoor Adventurers,1/9/2021
+92524,Livetube,Display,Women 35-44,60 days,Email,0.03,Euro,7.49,Mestre,Norwegian,733,1765,8,Tech Enthusiasts,1/26/2021
+164869,Thoughtstorm,Email,Men 18-24,30 days,Google Ads,0.04,Rupiah,3.28,Ringinrejo,Fijian,643,4467,6,Foodies,1/11/2021
+124423,Feedfish,Search,Men 18-24,60 days,Youtube,0.06,Peso,3.16,Fraile Pintado,Malay,625,5168,4,Fashionistas,1/9/2021
+168842,Skinte,Email,All Ages,30 days,Facebook,0.09,Ruble,4.13,Yazykovo,Armenian,514,3830,7,Tech Enthusiasts,1/30/2021
+74087,Oba,Search,All Ages,60 days,Email,0.12,Zloty,3.35,Baranowo,Estonian,849,3252,4,Fashionistas,1/24/2021
+110200,Yombu,Display,Men 25-34,15 days,Website,0.04,Yuan Renminbi,6.67,Jinqu,Quechua,990,5382,8,Fashionistas,1/3/2021
+140637,Tagpad,Search,Men 25-34,15 days,Email,0.09,Rupiah,3.7,Cibogo,Georgian,640,7401,5,Foodies,1/9/2021
+176784,Voomm,Search,Women 25-34,15 days,Google Ads,0.07,Yuan Renminbi,3.78,Boyu,Latvian,780,1733,4,Fashionistas,1/2/2021
+105117,Tekfly,Influencer,Men 18-24,15 days,Youtube,0.1,Euro,6.69,Lyon,Maltese,450,4672,10,Foodies,1/23/2021
+116567,Zoombox,Influencer,All Ages,60 days,Email,0.06,Yuan Renminbi,5.73,Beiwucha,Georgian,404,3144,10,Foodies,1/20/2021
+99579,Fiveclub,Email,Men 18-24,15 days,Website,0.08,Ruble,7.49,Rybinsk,Bislama,783,4439,9,Health & Wellness,1/13/2021
+85035,Yotz,Search,All Ages,15 days,Facebook,0.03,Yuan Renminbi,6.46,Zhaigang,Moldovan,941,4594,10,Foodies,1/17/2021
+133964,Oyonder,Influencer,Women 35-44,45 days,Facebook,0.02,Euro,3.63,Zwolle,German,793,3615,8,Tech Enthusiasts,1/2/2021
+160729,Youspan,Influencer,All Ages,30 days,Email,0.09,Real,6.33,Carlos Barbosa,Finnish,542,1788,4,Fashionistas,1/10/2021
+141281,Realmix,Search,Women 25-34,15 days,Website,0.13,Rupiah,2.92,Krajan Tambakrejo,Dzongkha,968,2079,7,Health & Wellness,1/21/2021
+143488,Zooxo,Display,Men 25-34,45 days,Website,0.08,Yuan Renminbi,6.03,Jinze,Gagauz,708,6368,8,Fashionistas,1/7/2021
+95045,Topicware,Email,Men 25-34,15 days,Youtube,0.1,Rupiah,4.66,Warungpeuteuy,Punjabi,801,8065,5,Fashionistas,1/7/2021
+92310,Dynava,Display,Men 18-24,30 days,Facebook,0.03,Pound,6.67,Bi’r al ‘Abd,Indonesian,558,7556,7,Foodies,1/4/2021
+112691,Nlounge,Email,Men 18-24,45 days,Google Ads,0.11,Rupiah,5.36,Pakalongan,Romanian,940,6926,8,Outdoor Adventurers,1/16/2021
+139480,Youspan,Email,Women 35-44,15 days,Website,0.05,Peso,6.85,Tariji,West Frisian,442,5641,9,Fashionistas,1/18/2021
+144999,Dazzlesphere,Influencer,Men 18-24,15 days,Facebook,0.06,Yuan Renminbi,4.41,Ruilin,Oriya,442,8913,3,Foodies,1/20/2021
+180189,Flashset,Search,All Ages,60 days,Google Ads,0.1,Euro,3.89,Palma De Mallorca,Tamil,850,8651,3,Fashionistas,1/18/2021
+111830,Ozu,Search,Women 35-44,15 days,Email,0.03,Peso,6.95,Bani,Bislama,591,4618,8,Tech Enthusiasts,1/25/2021
+126997,Devcast,Search,Women 35-44,60 days,Email,0.03,Peso,3.97,Bagombong,Nepali,827,8895,8,Fashionistas,1/1/2021
+98495,Ntag,Email,Women 25-34,15 days,Website,0.12,Yen,2.76,Ōmura,Tetum,642,5034,3,Foodies,1/16/2021
+184888,Avavee,Email,Women 35-44,60 days,Instagram,0.04,Euro,4.18,Outeiro,Icelandic,741,2727,6,Foodies,1/26/2021
+95235,Yambee,Search,Men 25-34,30 days,Youtube,0.05,Ruble,2.66,Nizhnedevitsk,Tajik,601,6277,5,Outdoor Adventurers,1/5/2021
+158935,Vipe,Influencer,Women 25-34,30 days,Youtube,0.03,Lempira,4.99,Santiago Puringla,Swati,878,7322,10,Foodies,1/23/2021
+180108,Flipbug,Influencer,Women 25-34,15 days,Facebook,0.05,Yuan Renminbi,4.42,Yanshou,Greek,915,1955,7,Health & Wellness,1/26/2021
+76995,Talane,Email,All Ages,45 days,Google Ads,0.04,Peso,5.24,Jacinto Arauz,Montenegrin,903,7548,9,Health & Wellness,1/1/2021
+149303,Roodel,Search,Men 25-34,30 days,Youtube,0.06,Zloty,5.67,Czarnocin,Somali,832,4071,6,Outdoor Adventurers,1/29/2021
+170466,Leexo,Email,Men 18-24,45 days,Facebook,0.09,Dollar,3.83,Belleville,Papiamento,486,3188,6,Outdoor Adventurers,1/3/2021
+116372,Innojam,Influencer,Women 35-44,45 days,Facebook,0.1,Somoni,2.65,Danghara,Lao,370,3170,3,Health & Wellness,1/10/2021
+90886,Twimm,Search,Men 25-34,30 days,Youtube,0.07,Rupiah,5.1,Mbongawani,Swedish,663,3833,7,Tech Enthusiasts,1/3/2021
+109120,Browsetype,Search,Men 18-24,15 days,Youtube,0.04,Ruble,5.12,Kamensk-Shakhtinskiy,West Frisian,800,6747,7,Foodies,1/1/2021
+156016,Jabberstorm,Influencer,Men 25-34,60 days,Facebook,0.07,Sol,2.9,Tiabaya,Afrikaans,525,4844,8,Outdoor Adventurers,1/21/2021
+70364,Youfeed,Influencer,Men 18-24,60 days,Instagram,0.05,Yuan Renminbi,2.97,Ganjiangtou,Dari,920,4917,4,Tech Enthusiasts,1/16/2021
+182728,Omba,Search,Men 25-34,30 days,Facebook,0.12,Yuan Renminbi,6.16,Yangsi,Irish Gaelic,827,8149,4,Tech Enthusiasts,1/24/2021
+172797,Voonte,Email,Men 18-24,30 days,Google Ads,0.11,Rupiah,2.93,Akarakar,Icelandic,917,3426,3,Tech Enthusiasts,1/29/2021
+125686,Gigazoom,Email,Men 25-34,15 days,Website,0.1,Yen,5.61,Otofuke,Catalan,701,2934,10,Tech Enthusiasts,1/16/2021
+89521,Buzzster,Search,Women 35-44,30 days,Youtube,0.06,Yuan Renminbi,3.2,Amgalang,Maltese,768,6026,4,Tech Enthusiasts,1/19/2021
+81359,Kwilith,Display,All Ages,60 days,Facebook,0.02,Dollar,3.33,Bulawayo,Mongolian,736,5501,9,Tech Enthusiasts,1/18/2021
+98658,DabZ,Display,Women 35-44,60 days,Website,0.06,Yuan Renminbi,4.27,Xazgat,Greek,519,3742,9,Foodies,1/18/2021
+173232,Realmix,Email,All Ages,60 days,Google Ads,0.07,Yuan Renminbi,4.15,Huaping,Estonian,682,7554,7,Outdoor Adventurers,1/2/2021
+176638,Yacero,Display,Men 18-24,60 days,Youtube,0.04,Krona,3.64,Trollhättan,Nepali,961,5485,6,Foodies,1/13/2021
+118918,Edgepulse,Email,Men 25-34,30 days,Instagram,0.09,Krona,7.47,Östersund,Lithuanian,509,8952,10,Foodies,1/22/2021
+145748,Gigabox,Display,Women 25-34,45 days,Website,0.09,Rupiah,2.55,Krajan,Amharic,971,4349,3,Outdoor Adventurers,1/5/2021
+134475,Minyx,Email,Men 25-34,15 days,Email,0.09,Yuan Renminbi,2.96,Linjiang,West Frisian,662,8891,9,Tech Enthusiasts,1/30/2021
+71893,Blogspan,Email,Women 35-44,60 days,Instagram,0.06,Euro,3.85,Funchal,Indonesian,672,7936,8,Health & Wellness,1/11/2021
+131170,Midel,Influencer,Women 25-34,45 days,Facebook,0.12,Krona,3.41,Västerås,Icelandic,981,5548,5,Fashionistas,1/5/2021
+70604,Tekfly,Display,All Ages,30 days,Email,0.09,Sol,6.98,Aguas Verdes,Korean,806,8536,7,Tech Enthusiasts,1/4/2021
+103068,Gabvine,Display,Women 25-34,45 days,Facebook,0.05,Yuan Renminbi,5.71,Zhongxing,Kurdish,681,7790,5,Foodies,1/21/2021
+114243,Flashdog,Influencer,Women 25-34,60 days,Facebook,0.04,Peso,3.29,Lazaro Cardenas,Marathi,889,8887,7,Foodies,1/2/2021
+178473,Bubblemix,Display,Men 18-24,15 days,Website,0.11,Peso,3.44,Santa Cruz,Malayalam,693,2454,6,Tech Enthusiasts,1/19/2021
+177773,Podcat,Display,Women 35-44,45 days,Youtube,0.1,Rupiah,5.92,Klatakan,Tajik,516,2047,6,Outdoor Adventurers,1/19/2021
+167207,Realcube,Display,Men 18-24,15 days,Google Ads,0.02,Rupiah,3.59,Pancoran,West Frisian,602,6193,7,Fashionistas,1/3/2021
+120461,Omba,Email,Women 25-34,15 days,Instagram,0.13,Euro,7.53,Casal da Anja,Croatian,514,2719,9,Outdoor Adventurers,1/22/2021
+81676,Tagopia,Influencer,Men 25-34,45 days,Email,0.05,Ruble,3.42,Severomorsk,Croatian,813,1817,9,Outdoor Adventurers,1/10/2021
+170732,Camimbo,Display,Men 25-34,60 days,Google Ads,0.05,Krona,6.46,Karlskoga,Filipino,671,1837,10,Foodies,1/30/2021
+100925,Demizz,Search,Women 35-44,30 days,Facebook,0.09,Peso,3.11,Mondragon,Korean,980,2911,9,Health & Wellness,1/3/2021
+131371,Bubblemix,Search,Women 35-44,30 days,Instagram,0.06,Yuan Renminbi,3.86,Yuhuangding,Zulu,858,2288,10,Fashionistas,1/14/2021
+169286,Topiczoom,Search,Women 35-44,45 days,Facebook,0.12,Euro,5.64,Winschoten,Tswana,542,1988,9,Health & Wellness,1/14/2021
+70341,Voonte,Email,Men 18-24,30 days,Instagram,0.05,Peso,7.21,Mexico,Oriya,967,3804,4,Outdoor Adventurers,1/18/2021
+165326,Viva,Email,Men 25-34,15 days,Facebook,0.03,Ruble,6.57,Orsk,Kannada,718,4939,9,Fashionistas,1/29/2021
+86236,Babbleopia,Search,Women 25-34,45 days,Email,0.09,Real,6.75,Sarandi,Hungarian,643,8331,9,Health & Wellness,1/21/2021
+139423,Thoughtstorm,Display,Women 35-44,30 days,Website,0.09,Yuan Renminbi,7.23,Anzihao,Somali,628,2604,3,Tech Enthusiasts,1/1/2021
+119571,Flashdog,Display,Women 25-34,30 days,Email,0.09,Euro,5.36,Areeiro,Malayalam,609,2664,10,Foodies,1/18/2021
+183134,Browsecat,Influencer,Women 35-44,15 days,Email,0.04,Ruble,6.08,Urukh,English,517,7078,9,Health & Wellness,1/13/2021
+160578,Einti,Search,All Ages,45 days,Facebook,0.09,Peso,2.57,Puerto Santander,Papiamento,614,5422,4,Foodies,1/25/2021
+150780,Dabvine,Email,Women 25-34,30 days,Email,0.03,Euro,4.82,São João do Campo,Bengali,766,4128,9,Foodies,1/3/2021
+117554,Skalith,Search,Men 18-24,15 days,Google Ads,0.05,Peso,7.17,Cagwait,Japanese,745,8378,5,Outdoor Adventurers,1/26/2021
+76748,Abatz,Influencer,Women 35-44,60 days,Google Ads,0.13,Koruna,3.51,Dalovice,Fijian,721,8132,6,Foodies,1/28/2021
+138025,Riffpath,Influencer,Women 25-34,60 days,Google Ads,0.11,Yuan Renminbi,7.54,Yidian,Marathi,786,5866,9,Tech Enthusiasts,1/9/2021
+116929,Podcat,Display,Women 35-44,60 days,Facebook,0.06,Baht,4.54,Nong Phok,Georgian,824,3570,10,Health & Wellness,1/8/2021
+185362,Snaptags,Email,Men 18-24,45 days,Facebook,0.08,Yuan Renminbi,5.4,Qujiang,Tamil,982,3897,6,Foodies,1/4/2021
+118695,Rhyzio,Email,Women 25-34,45 days,Facebook,0.1,Pound,4.81,Abū Zabad,Hindi,548,5931,8,Fashionistas,1/9/2021
+132107,Wikido,Search,Men 25-34,60 days,Google Ads,0.13,Manat,3.85,Şuraabad,Arabic,735,4601,9,Fashionistas,1/24/2021
+126656,Wordware,Display,All Ages,30 days,Facebook,0.06,Ruble,3.73,Ishim,Armenian,543,6883,8,Fashionistas,1/22/2021
+113979,Skivee,Email,Women 25-34,45 days,Google Ads,0.13,Peso,4.24,Moca,Māori,715,8182,4,Tech Enthusiasts,1/24/2021
+86004,Mynte,Display,Women 25-34,60 days,Youtube,0.04,Franc,2.91,Ngaoundéré,Indonesian,544,1971,5,Health & Wellness,1/3/2021
+155747,Oba,Email,Women 25-34,15 days,Website,0.07,Ruble,5.11,Kabakovo,Estonian,910,3271,6,Health & Wellness,1/9/2021
+167460,Vimbo,Display,Women 25-34,45 days,Instagram,0.07,Som,3.91,Kegeyli Shahar,Kyrgyz,819,2028,5,Fashionistas,1/30/2021
+123805,Livetube,Influencer,Men 25-34,15 days,Youtube,0.03,Hryvnia,6.34,Bilshivtsi,Marathi,995,3632,3,Health & Wellness,1/13/2021
+104050,Bluezoom,Display,Women 25-34,30 days,Email,0.1,Yen,4.65,Wakuya,Swedish,814,7976,7,Outdoor Adventurers,1/12/2021
+122453,Flashset,Display,Women 35-44,15 days,Instagram,0.08,Euro,2.85,Poitiers,Korean,450,5118,7,Foodies,1/22/2021
+106840,Kayveo,Display,All Ages,45 days,Facebook,0.13,Peso,4.66,Bellavista,New Zealand Sign Language,526,3820,6,Fashionistas,1/17/2021
+159498,Yoveo,Display,All Ages,15 days,Google Ads,0.13,Yuan Renminbi,6.72,Jixiang,Portuguese,659,2351,10,Fashionistas,1/8/2021
+115276,Eimbee,Influencer,Women 25-34,60 days,Google Ads,0.08,Marka,5.03,Maslovare,Greek,481,3050,10,Health & Wellness,1/21/2021
+172882,Dablist,Email,Men 18-24,15 days,Instagram,0.04,Rupiah,7.4,Keli,English,583,8868,9,Foodies,1/19/2021
+161282,Youspan,Influencer,Women 35-44,45 days,Instagram,0.06,Rupiah,3.11,Kertorejo,Zulu,714,7347,6,Foodies,1/14/2021
+105026,Jayo,Display,Men 25-34,45 days,Facebook,0.12,Shilling,6.85,Narok,Latvian,741,3150,3,Health & Wellness,1/18/2021
+78910,Wordtune,Display,Women 35-44,45 days,Email,0.11,Lari,7.35,Tqibuli,Quechua,586,3825,5,Tech Enthusiasts,1/14/2021
+165649,Mynte,Email,All Ages,15 days,Youtube,0.09,Colon,3.23,Sámara,Northern Sotho,733,3044,8,Foodies,1/3/2021
+92140,Brainsphere,Email,Women 25-34,15 days,Google Ads,0.02,Rial,5.82,Kāmyārān,French,879,2159,10,Foodies,1/1/2021
+157260,Vimbo,Influencer,Men 18-24,30 days,Instagram,0.09,Ruble,6.42,Naro-Fominsk,Sotho,406,5595,8,Outdoor Adventurers,1/14/2021
+180742,Twitterwire,Search,Men 18-24,15 days,Google Ads,0.13,Zloty,4.16,Glinojeck,Fijian,586,3757,7,Tech Enthusiasts,1/27/2021
+110781,Nlounge,Email,Men 18-24,45 days,Website,0.07,Euro,5.33,Cesvaine,Guaraní,839,8702,7,Foodies,1/21/2021
+114390,Quinu,Search,Men 18-24,60 days,Youtube,0.08,Krona,3.82,Göteborg,Indonesian,966,8404,8,Tech Enthusiasts,1/19/2021
+184574,Chatterbridge,Display,Men 18-24,30 days,Website,0.08,Rupiah,4.46,Roun Satu,Tsonga,964,7615,10,Tech Enthusiasts,1/25/2021
+160607,Cogilith,Email,Women 25-34,45 days,Facebook,0.05,Lek,4.67,Fratar,Swahili,817,2700,3,Outdoor Adventurers,1/19/2021
+145696,Skibox,Search,All Ages,60 days,Email,0.08,Yuan Renminbi,5.72,Ping’an,Moldovan,839,2827,5,Outdoor Adventurers,1/14/2021
+126608,Flipopia,Search,All Ages,60 days,Instagram,0.04,Ruble,3.81,Mikhaylov,Hungarian,918,2800,7,Tech Enthusiasts,1/5/2021
+124081,Kwideo,Email,All Ages,15 days,Facebook,0.11,Peso,4.28,Canturay,Bengali,458,3864,3,Fashionistas,1/10/2021
+141053,Trunyx,Influencer,Men 25-34,45 days,Email,0.03,Euro,7.21,Vila Verde,Bulgarian,618,5630,10,Outdoor Adventurers,1/4/2021
+85617,Talane,Email,Women 35-44,15 days,Facebook,0.11,Yen,7.14,Kawagoe,Korean,729,7860,7,Health & Wellness,1/7/2021
+143566,Abata,Display,Men 25-34,15 days,Website,0.1,Peso,5.83,Hernani,Persian,858,6648,4,Health & Wellness,1/29/2021
+106024,Meembee,Email,Men 25-34,60 days,Youtube,0.12,Peso,2.58,Tamiso,Papiamento,658,8380,4,Fashionistas,1/8/2021
+168030,Blogtags,Search,All Ages,45 days,Youtube,0.04,Rupee,3.2,Daur,Azeri,535,6556,6,Fashionistas,1/30/2021
+122982,Edgewire,Display,All Ages,15 days,Youtube,0.12,Peso,5.14,Migues,Oriya,523,6345,8,Fashionistas,1/22/2021
+121534,Trilia,Display,Men 25-34,60 days,Email,0.04,Euro,3.46,Arnhem,Czech,464,8812,10,Tech Enthusiasts,1/5/2021
+106689,Livetube,Influencer,Men 25-34,15 days,Email,0.11,Peso,5.79,Buga,English,949,6747,4,Outdoor Adventurers,1/29/2021
+130150,Kwinu,Influencer,Women 25-34,60 days,Facebook,0.05,Rial,2.78,Ash Shaḩānīyah,Northern Sotho,620,1929,7,Tech Enthusiasts,1/11/2021
+161134,Tagopia,Email,Men 25-34,15 days,Email,0.06,Dollar,5.18,Hampton,Tswana,961,3947,4,Foodies,1/21/2021
+92877,Oozz,Email,All Ages,45 days,Website,0.08,Peso,5.53,Pueblo Nuevo,Armenian,511,8709,8,Outdoor Adventurers,1/16/2021
+75083,Oozz,Search,Women 35-44,45 days,Facebook,0.1,Yuan Renminbi,7.5,Longshe,Croatian,610,7177,5,Outdoor Adventurers,1/5/2021
+166768,Gevee,Influencer,Women 35-44,60 days,Facebook,0.03,Rupiah,5.84,Ketangi,Korean,514,5498,6,Fashionistas,1/6/2021
+118272,Bluejam,Email,Men 25-34,30 days,Instagram,0.12,Euro,4.85,Sandymount,Nepali,427,6368,6,Fashionistas,1/25/2021
+171517,Vimbo,Search,Men 25-34,45 days,Youtube,0.13,Euro,5.9,Taipalsaari,Punjabi,554,5937,7,Fashionistas,1/20/2021
+183869,Zoombeat,Influencer,Men 25-34,15 days,Website,0.08,Yuan Renminbi,7.01,Jiangwakou,Bengali,512,8771,6,Health & Wellness,1/12/2021
+181077,Skinte,Influencer,All Ages,30 days,Facebook,0.07,Koruna,5.17,Zlín,Dutch,917,6217,7,Tech Enthusiasts,1/8/2021
+135257,Meedoo,Email,Men 18-24,60 days,Instagram,0.06,Yuan Renminbi,4.74,Zhichu,Danish,595,7349,3,Foodies,1/13/2021
+99360,Ainyx,Email,Men 25-34,30 days,Email,0.06,Euro,4.54,Beltinci,Guaraní,406,5881,5,Foodies,1/27/2021
+107420,Trudeo,Influencer,Men 18-24,30 days,Website,0.05,Peso,5.6,Nalus,Tsonga,375,7402,9,Tech Enthusiasts,1/26/2021
+96563,Vimbo,Influencer,Men 25-34,15 days,Instagram,0.09,Yuan Renminbi,6.56,Jukui,Arabic,871,6970,9,Tech Enthusiasts,1/28/2021
+70579,Babbleblab,Influencer,Men 25-34,30 days,Google Ads,0.05,Rupiah,4.77,Citatah Kaler,Armenian,474,4671,4,Health & Wellness,1/23/2021
+110703,Trilith,Email,Women 35-44,15 days,Website,0.12,Pound,3.14,Tripoli,Dari,700,5370,8,Health & Wellness,1/9/2021
+89647,Wikibox,Influencer,Women 35-44,15 days,Facebook,0.03,Ruble,5.68,Artybash,Gagauz,703,3121,3,Health & Wellness,1/16/2021
+103527,DabZ,Display,Women 25-34,15 days,Facebook,0.11,Dollar,3.53,Alma,Kazakh,838,6634,4,Foodies,1/3/2021
+157757,Reallinks,Display,All Ages,45 days,Facebook,0.13,Rupiah,7.28,Kuripan,Norwegian,805,7318,9,Health & Wellness,1/26/2021
+154856,Kare,Display,Men 25-34,30 days,Facebook,0.11,Yuan Renminbi,5.59,Jianggang,Hiri Motu,812,4677,9,Tech Enthusiasts,1/26/2021
+179735,Trudeo,Search,Women 35-44,15 days,Youtube,0.09,Yuan Renminbi,6.75,Zhushan,Marathi,824,3025,4,Tech Enthusiasts,1/9/2021
+114719,Kazio,Influencer,All Ages,45 days,Instagram,0.11,Afghani,5.28,Wuṯahpūr,Tok Pisin,405,3174,7,Tech Enthusiasts,1/9/2021
+87989,Wikibox,Influencer,Women 35-44,15 days,Email,0.11,Yen,3.79,Shisui,Fijian,683,8759,7,Foodies,1/28/2021
+116898,Photobug,Search,Men 18-24,15 days,Email,0.04,Balboa,6.86,Chepo,Tamil,626,2013,6,Health & Wellness,1/30/2021
+75672,Skinder,Search,Women 25-34,45 days,Email,0.12,Euro,4.74,Méru,Amharic,405,8685,7,Fashionistas,1/6/2021
+156563,Mycat,Search,All Ages,15 days,Youtube,0.08,Euro,4.03,Rennes,Dari,960,5193,5,Outdoor Adventurers,1/1/2021
+145903,Fliptune,Influencer,Women 25-34,15 days,Facebook,0.04,Peso,3.37,Guachucal,Swedish,472,7784,8,Tech Enthusiasts,1/19/2021
+154700,Flipbug,Influencer,All Ages,45 days,Google Ads,0.05,Euro,2.77,Houten,Kannada,414,5325,6,Outdoor Adventurers,1/1/2021
+98018,Gabtune,Display,Men 25-34,45 days,Instagram,0.04,Dollar,2.48,Scranton,Danish,978,6899,9,Foodies,1/5/2021
+146654,Yamia,Display,Women 35-44,30 days,Youtube,0.09,Rupiah,2.67,Sukatani,Zulu,661,5033,9,Outdoor Adventurers,1/12/2021
+124875,Abata,Email,Men 25-34,15 days,Google Ads,0.08,Shilling,6.88,Wobulenzi,Thai,428,3990,3,Health & Wellness,1/4/2021
+180917,Demivee,Search,Men 25-34,30 days,Website,0.12,Yuan Renminbi,5.28,Ziketan,Macedonian,983,7917,8,Fashionistas,1/30/2021
+164785,Babbleopia,Email,Men 18-24,60 days,Facebook,0.07,Koruna,3.63,Katovice,Armenian,661,8442,10,Fashionistas,1/22/2021
+80161,Skinix,Display,Men 18-24,15 days,Email,0.13,Ruble,6.07,Tbilisskaya,Arabic,710,6821,8,Health & Wellness,1/9/2021
+129260,Mydo,Email,Men 25-34,15 days,Google Ads,0.04,Manat,5.5,Qobu,Hungarian,844,6442,6,Tech Enthusiasts,1/18/2021
+150600,Thoughtstorm,Display,Men 25-34,30 days,Youtube,0.08,Yuan Renminbi,4.19,Tianzhu,Dzongkha,967,2093,5,Tech Enthusiasts,1/9/2021
+156611,Mymm,Search,Men 25-34,30 days,Email,0.11,Franc,2.5,Buganda,Malayalam,859,5540,5,Outdoor Adventurers,1/1/2021
+157863,Ailane,Search,All Ages,45 days,Youtube,0.1,Rupiah,6.97,Wahai,Maltese,737,2921,3,Foodies,1/6/2021
+125510,Fiveclub,Display,Women 25-34,30 days,Google Ads,0.13,Hryvnia,3.38,Torez,Czech,611,2701,8,Health & Wellness,1/18/2021
+173159,Wikido,Display,Women 25-34,45 days,Email,0.04,Krone,5.81,Oslo,Bengali,377,8511,5,Health & Wellness,1/25/2021
+146948,Brainbox,Search,Women 25-34,60 days,Facebook,0.12,Hryvnia,3.48,Semypolky,Polish,683,7917,9,Fashionistas,1/19/2021
+96025,DabZ,Email,Men 25-34,15 days,Instagram,0.08,Bolivar,7.03,Coro,Malagasy,450,5592,6,Fashionistas,1/20/2021
+175011,Minyx,Email,Women 35-44,45 days,Email,0.03,Yuan Renminbi,6.55,Yinghua,Tsonga,610,7164,9,Health & Wellness,1/4/2021
+140065,LiveZ,Search,Women 35-44,30 days,Youtube,0.11,Ruble,5.83,Strelka,Filipino,474,5392,9,Tech Enthusiasts,1/28/2021
+70451,Trudeo,Display,Women 35-44,15 days,Website,0.04,Euro,6.92,Reims,Macedonian,670,2643,4,Outdoor Adventurers,1/8/2021
+123204,Cogibox,Influencer,Men 18-24,60 days,Website,0.1,Hryvnia,5.41,Kosiv,Malagasy,709,2395,9,Foodies,1/11/2021
+74968,Kwilith,Influencer,Men 18-24,15 days,Google Ads,0.11,Franc,7.25,Mopti,Dhivehi,739,2157,7,Tech Enthusiasts,1/22/2021
+149090,Mynte,Email,Women 25-34,60 days,Instagram,0.05,Ruble,6.0,Petukhovo,Dhivehi,957,7206,7,Outdoor Adventurers,1/2/2021
+97700,Wikizz,Search,Women 25-34,45 days,Website,0.02,Real,7.23,Jardim do Seridó,Tsonga,472,1790,3,Health & Wellness,1/1/2021
+143503,Livetube,Email,Women 25-34,45 days,Email,0.11,Euro,3.11,Jaunpiebalga,Filipino,469,6812,10,Outdoor Adventurers,1/23/2021
+180513,Blogtags,Display,Men 25-34,15 days,Facebook,0.02,Euro,7.26,Barcelona,Belarusian,536,8293,7,Health & Wellness,1/2/2021
+131306,Tekfly,Email,Men 18-24,15 days,Email,0.08,Real,5.1,Aimorés,French,427,8633,3,Tech Enthusiasts,1/8/2021
+156831,Zoonoodle,Display,Men 18-24,30 days,Youtube,0.09,Sol,5.92,Condoroma,West Frisian,412,7808,4,Outdoor Adventurers,1/21/2021
+71005,Wikizz,Search,Women 25-34,60 days,Instagram,0.06,Peso,3.16,Havana,Montenegrin,371,3844,10,Outdoor Adventurers,1/26/2021
+100837,Skyndu,Influencer,Women 35-44,30 days,Website,0.1,Yuan Renminbi,6.01,Shuikou,Gujarati,660,8050,5,Fashionistas,1/12/2021
+104929,Brightbean,Search,Men 18-24,45 days,Youtube,0.07,Euro,7.31,Bergerac,Assamese,931,1780,9,Outdoor Adventurers,1/7/2021
+129802,Fatz,Email,Women 35-44,60 days,Instagram,0.02,Dong,5.35,Quốc Oai,Afrikaans,552,5909,5,Fashionistas,1/11/2021
+173713,Livepath,Search,All Ages,15 days,Google Ads,0.1,Sol,5.62,Cabanaconde,Punjabi,699,4221,5,Health & Wellness,1/6/2021
+139119,Quimba,Email,Women 35-44,30 days,Google Ads,0.06,Yuan Renminbi,3.51,Eman,Northern Sotho,773,4066,3,Health & Wellness,1/21/2021
+152009,Yambee,Influencer,Men 25-34,15 days,Instagram,0.08,Dollar,4.2,Maketu,Swahili,650,6238,3,Fashionistas,1/12/2021
+143678,Quimba,Display,Men 25-34,30 days,Website,0.04,Dram,4.88,Ejmiatsin,Greek,639,2837,5,Fashionistas,1/21/2021
+145418,Gabtype,Display,Women 35-44,45 days,Email,0.05,Peso,6.05,Anulid,Quechua,877,3858,8,Health & Wellness,1/17/2021
+115251,Digitube,Search,Women 35-44,60 days,Facebook,0.12,Yuan Renminbi,6.22,Gaozhai,Gagauz,785,5502,7,Tech Enthusiasts,1/2/2021
+71644,Twitterbridge,Email,Women 25-34,45 days,Email,0.1,Yuan Renminbi,7.23,Xinsheng,Lithuanian,424,7495,5,Outdoor Adventurers,1/18/2021
+176899,Skaboo,Search,Women 25-34,45 days,Youtube,0.06,Euro,2.45,Antes,Lithuanian,558,7342,3,Tech Enthusiasts,1/20/2021
+168603,Tagtune,Search,All Ages,45 days,Facebook,0.06,Koruna,6.45,Svoboda nad Úpou,Pashto,478,7172,9,Health & Wellness,1/30/2021
+90928,Wikizz,Search,Women 25-34,45 days,Facebook,0.05,Rupiah,2.73,Parung,Yiddish,908,6030,4,Tech Enthusiasts,1/20/2021
+114747,Jabbertype,Display,All Ages,30 days,Website,0.06,Yuan Renminbi,7.23,Micheng,Swati,865,8462,8,Fashionistas,1/2/2021
+117628,Meezzy,Search,Women 25-34,15 days,Instagram,0.1,Rupiah,2.87,Lengkongsari,Romanian,525,5671,10,Outdoor Adventurers,1/7/2021
+71628,Buzzster,Search,Women 35-44,60 days,Facebook,0.07,Yuan Renminbi,2.44,Yangong,Danish,804,2305,3,Foodies,1/13/2021
+84519,Quamba,Display,All Ages,60 days,Website,0.09,Naira,6.99,Gagarawa,Italian,746,8577,4,Foodies,1/18/2021
+185146,Quinu,Influencer,All Ages,45 days,Website,0.08,Lempira,3.42,San Luis,Persian,946,6203,3,Fashionistas,1/26/2021
+102143,Gabcube,Search,Women 25-34,45 days,Instagram,0.05,Yuan Renminbi,7.3,Pingfeng,Somali,363,5323,3,Foodies,1/29/2021
+149945,Tambee,Display,All Ages,15 days,Instagram,0.13,Krona,5.33,Solna,Japanese,793,5865,3,Health & Wellness,1/17/2021
+151644,Kare,Email,All Ages,60 days,Email,0.06,Peso,6.81,La Virginia,Norwegian,396,7432,9,Outdoor Adventurers,1/5/2021
+184214,Roomm,Display,All Ages,30 days,Youtube,0.08,Rupee,3.96,Dambulla,Bengali,514,3631,7,Fashionistas,1/29/2021
+104953,Aibox,Search,Women 25-34,45 days,Youtube,0.02,Kuna,3.05,Stari Grad,Montenegrin,986,5785,6,Foodies,1/29/2021
+114305,Chatterbridge,Email,Men 25-34,15 days,Facebook,0.09,Real,3.27,Itapecerica da Serra,Korean,692,2324,8,Tech Enthusiasts,1/15/2021
+181353,Abata,Search,Women 25-34,45 days,Facebook,0.11,Dollar,4.54,Omuthiya,Kashmiri,495,1972,9,Health & Wellness,1/10/2021
+82964,Kamba,Influencer,Women 25-34,45 days,Email,0.13,Zloty,4.14,Jawornik Polski,Lithuanian,589,8090,8,Outdoor Adventurers,1/21/2021
+137539,Innotype,Display,Women 25-34,30 days,Email,0.1,Yuan Renminbi,6.52,Canghou,Papiamento,911,6072,7,Fashionistas,1/22/2021
+155179,Ntag,Search,Men 18-24,15 days,Facebook,0.12,Yuan Renminbi,3.57,Xujiafang,Spanish,502,5399,9,Fashionistas,1/20/2021
+159697,Aimbo,Display,All Ages,45 days,Instagram,0.08,Sol,5.46,Moche,Punjabi,916,1617,3,Fashionistas,1/28/2021
+183757,Twitterbeat,Email,All Ages,15 days,Website,0.12,Ruble,5.24,Tuymazy,Kannada,832,1667,7,Outdoor Adventurers,1/12/2021
+149166,Gigazoom,Influencer,Men 25-34,30 days,Facebook,0.04,Yuan Renminbi,4.86,Xitou,Swedish,643,3032,3,Fashionistas,1/30/2021
+176939,Mynte,Influencer,Men 18-24,45 days,Google Ads,0.12,Guarani,5.6,Tacuatí,Burmese,877,8056,8,Fashionistas,1/11/2021
+161805,Katz,Display,Men 18-24,60 days,Instagram,0.04,Yen,5.75,Ōme,Chinese,897,8096,6,Tech Enthusiasts,1/6/2021
+149587,Browseblab,Email,All Ages,45 days,Google Ads,0.09,Yuan Renminbi,4.53,Jijiang,Lao,895,7916,6,Fashionistas,1/23/2021
+81891,Zooxo,Search,Men 25-34,60 days,Facebook,0.04,Peso,4.34,Villavicencio,Dutch,831,2689,5,Outdoor Adventurers,1/12/2021
+163306,Trilia,Email,All Ages,60 days,Google Ads,0.08,Krona,3.17,Svenljunga,Filipino,938,1881,4,Tech Enthusiasts,1/30/2021
+142101,Zoonder,Display,All Ages,60 days,Email,0.04,Yuan Renminbi,5.37,Xishanzui,Norwegian,507,6775,4,Fashionistas,1/5/2021
+99614,Minyx,Display,Men 25-34,45 days,Website,0.13,Euro,2.57,Mýki,Korean,737,6356,4,Health & Wellness,1/10/2021
+165216,Skyndu,Email,Women 25-34,15 days,Email,0.11,Yuan Renminbi,2.53,Huhe,Macedonian,395,4931,8,Outdoor Adventurers,1/1/2021
+158526,Eare,Email,Men 18-24,45 days,Instagram,0.05,Yuan Renminbi,2.46,Gannan,Hungarian,651,6356,5,Foodies,1/14/2021
+83636,Twitterbeat,Email,Men 18-24,30 days,Email,0.03,Euro,2.66,Santa Cruz das Flores,Tok Pisin,945,7610,10,Fashionistas,1/21/2021
+176020,Feedspan,Email,Men 18-24,60 days,Instagram,0.08,Sol,4.71,Vischongo,Arabic,844,2474,5,Fashionistas,1/13/2021
+90007,Youspan,Display,Men 25-34,15 days,Google Ads,0.1,Euro,2.98,Montpellier,Swati,945,4146,4,Fashionistas,1/18/2021
+185349,Topicware,Search,Men 25-34,30 days,Instagram,0.05,Peso,2.97,Peñaflor,Somali,628,8280,10,Fashionistas,1/30/2021
+117727,InnoZ,Display,Men 18-24,30 days,Youtube,0.13,Zloty,4.05,Hajnówka,German,453,6250,4,Tech Enthusiasts,1/9/2021
+90985,Voolia,Email,Women 25-34,15 days,Instagram,0.02,Krona,6.7,Gävle,Macedonian,694,6720,8,Health & Wellness,1/5/2021
+136261,Linklinks,Search,Men 25-34,15 days,Website,0.11,Yuan Renminbi,4.0,Doumen,Mongolian,875,5030,3,Outdoor Adventurers,1/27/2021
+167850,Shufflebeat,Influencer,All Ages,45 days,Email,0.12,Peso,7.15,Primero de Enero,Thai,911,7067,3,Foodies,1/16/2021
+118030,Eayo,Email,All Ages,45 days,Youtube,0.1,Rupiah,4.81,Krajan Bakalan,Yiddish,823,7258,3,Outdoor Adventurers,1/10/2021
+155660,Tazzy,Display,Women 35-44,30 days,Google Ads,0.07,Yuan Renminbi,7.29,Guandu,Norwegian,599,8829,3,Foodies,1/5/2021
+129043,Oyoyo,Email,Women 25-34,45 days,Youtube,0.06,Rupiah,3.64,Tangkanpulit,Quechua,575,8276,8,Health & Wellness,1/18/2021
+85232,Oodoo,Search,All Ages,15 days,Youtube,0.08,Real,2.67,Cacequi,Belarusian,635,2919,3,Health & Wellness,1/24/2021
+119724,Kwimbee,Influencer,All Ages,60 days,Website,0.12,Euro,6.57,Zasip,Yiddish,792,7373,8,Outdoor Adventurers,1/4/2021
+186150,Quinu,Influencer,Women 35-44,45 days,Youtube,0.08,Yuan Renminbi,6.31,Xushangqiao,Arabic,701,6150,5,Fashionistas,1/9/2021
+98334,Chatterpoint,Search,Men 18-24,60 days,Website,0.05,Yuan Renminbi,7.46,Hetang,Thai,400,4631,10,Outdoor Adventurers,1/24/2021
+161557,Tagchat,Display,All Ages,60 days,Facebook,0.1,Dong,3.35,Phù Mỹ,Afrikaans,916,8670,8,Health & Wellness,1/22/2021
+110061,Yodoo,Search,Women 25-34,30 days,Instagram,0.07,Zloty,3.86,Piotrków Kujawski,Khmer,960,6887,8,Fashionistas,1/12/2021
+144817,Skipfire,Search,Men 18-24,60 days,Email,0.02,Yuan Renminbi,3.78,Huangliang,Kyrgyz,775,7916,4,Tech Enthusiasts,1/17/2021
+170935,Geba,Search,Men 25-34,45 days,Facebook,0.03,Real,5.56,Guaíba,English,917,3766,6,Foodies,1/11/2021
+96676,Zoomcast,Search,Men 18-24,15 days,Email,0.1,Euro,5.75,São João das Lampas,New Zealand Sign Language,989,5467,5,Health & Wellness,1/5/2021
+147182,Voolith,Search,Women 25-34,30 days,Youtube,0.1,Ruble,7.47,Beloostrov,Georgian,985,5535,4,Foodies,1/4/2021
+169263,Jamia,Influencer,All Ages,15 days,Google Ads,0.12,Ruble,4.84,Kokoshkino,Ndebele,494,7756,6,Foodies,1/28/2021
+113198,Aimbo,Influencer,All Ages,45 days,Email,0.11,Peso,4.7,Guataquí,Filipino,829,4488,9,Outdoor Adventurers,1/16/2021
+179621,Yotz,Display,Women 25-34,60 days,Facebook,0.04,Yuan Renminbi,4.68,Heqing,Swedish,952,5039,4,Foodies,1/26/2021
+129915,Meembee,Email,Men 25-34,30 days,Email,0.07,Boliviano,4.76,Huanuni,Quechua,761,2265,5,Health & Wellness,1/21/2021
+163528,Vipe,Influencer,Men 25-34,30 days,Youtube,0.07,Yuan Renminbi,5.32,Dongbang,Croatian,416,5371,5,Foodies,1/20/2021
+163281,Eimbee,Display,Women 35-44,45 days,Website,0.06,Peso,6.79,Puerto Iguazú,Hebrew,855,2956,8,Fashionistas,1/12/2021
+76718,Buzzbean,Influencer,Women 35-44,60 days,Website,0.1,Krona,2.76,Ludvika,Korean,458,2571,7,Foodies,1/19/2021
+156214,Oba,Email,All Ages,30 days,Facebook,0.06,Ruble,4.86,Kol’chugino,Finnish,517,8145,9,Foodies,1/25/2021
+108451,Vinte,Email,Women 35-44,30 days,Email,0.05,Rupiah,4.36,Mangge,Tok Pisin,574,3218,4,Fashionistas,1/16/2021
+143445,Einti,Search,Men 18-24,30 days,Youtube,0.11,Hryvnia,3.52,Pereyaslav-Khmel’nyts’kyy,English,464,3073,7,Tech Enthusiasts,1/10/2021
+162319,Jayo,Email,Men 18-24,45 days,Google Ads,0.08,Quetzal,6.78,San Miguel Dueñas,Lithuanian,637,7263,4,Tech Enthusiasts,1/28/2021
+123643,Jaxbean,Email,Men 25-34,45 days,Instagram,0.11,Zloty,4.79,Krosno Odrzańskie,Lao,774,5463,3,Tech Enthusiasts,1/27/2021
+114832,Vinder,Influencer,Women 35-44,30 days,Google Ads,0.07,Dram,4.4,Hoktember,German,675,6925,3,Health & Wellness,1/26/2021
+157530,Youtags,Display,Women 25-34,60 days,Facebook,0.09,Quetzal,3.09,Jalpatagua,English,509,4852,9,Fashionistas,1/12/2021
+82072,Dynabox,Display,All Ages,45 days,Google Ads,0.05,Rial,2.79,Marāveh Tappeh,Korean,504,4600,5,Fashionistas,1/14/2021
+176392,Vitz,Display,Men 18-24,45 days,Website,0.06,Taka,4.1,Nageswari,Croatian,390,6728,4,Fashionistas,1/22/2021
+130586,Trudeo,Search,Women 25-34,60 days,Youtube,0.09,Afghani,6.74,Bāgh-e Maīdān,Moldovan,663,5219,4,Tech Enthusiasts,1/16/2021
+115727,Browsedrive,Influencer,All Ages,30 days,Google Ads,0.03,Yuan Renminbi,3.92,Daji,Romanian,587,4243,5,Outdoor Adventurers,1/23/2021
+124604,Tagtune,Display,All Ages,60 days,Email,0.1,Yuan Renminbi,7.48,Xiyang,Greek,859,5518,9,Tech Enthusiasts,1/29/2021
+79219,Gevee,Email,Men 18-24,45 days,Facebook,0.13,Yuan Renminbi,7.37,Tiebiancheng,Catalan,698,2501,7,Tech Enthusiasts,1/16/2021
+179741,Feedfish,Search,Women 25-34,15 days,Email,0.05,Euro,5.47,Nogueira,New Zealand Sign Language,944,3094,8,Health & Wellness,1/26/2021
+103909,Yozio,Email,Men 18-24,60 days,Google Ads,0.07,Dinar,7.45,Safi,Italian,725,5776,9,Foodies,1/26/2021
+175363,Topicblab,Search,All Ages,60 days,Instagram,0.09,Real,5.46,Itaporanga,Icelandic,605,5828,10,Health & Wellness,1/26/2021
+163740,Flashpoint,Influencer,Men 18-24,30 days,Google Ads,0.04,Yuan Renminbi,4.24,Ji’an,Hungarian,870,3464,10,Fashionistas,1/15/2021
+181935,Quinu,Display,Women 25-34,60 days,Email,0.11,Sol,7.47,San Felipe,Kashmiri,564,6132,8,Fashionistas,1/3/2021
+159975,Skiba,Influencer,Men 18-24,60 days,Facebook,0.07,Yuan Renminbi,6.28,Shuiyang,Macedonian,463,7090,5,Health & Wellness,1/24/2021
+182879,Skippad,Search,Men 18-24,60 days,Facebook,0.13,Euro,3.53,Bordeaux,Chinese,872,2599,3,Health & Wellness,1/17/2021
+140596,Topiclounge,Search,All Ages,45 days,Email,0.12,Ringgit,6.8,Butterworth,Spanish,537,7818,5,Fashionistas,1/6/2021
+158394,Zoombeat,Email,Men 25-34,60 days,Email,0.09,Peso,2.53,Pang,Gagauz,945,5264,8,Foodies,1/18/2021
+71551,Edgetag,Email,All Ages,45 days,Google Ads,0.08,Yuan Renminbi,3.84,Houxixi,Persian,846,4775,10,Outdoor Adventurers,1/18/2021
+134093,Mynte,Search,Women 25-34,15 days,Website,0.07,Peso,5.56,Altavista,Telugu,702,1771,3,Fashionistas,1/24/2021
+82571,Pixonyx,Influencer,Women 25-34,30 days,Google Ads,0.04,Peso,6.12,Nabunturan,Ndebele,812,8501,5,Health & Wellness,1/24/2021
+160651,Flashpoint,Influencer,Women 25-34,15 days,Email,0.08,Tenge,3.07,Ülken,Kurdish,941,7182,10,Foodies,1/15/2021
+78709,Meetz,Email,Women 35-44,45 days,Website,0.04,Franc,4.67,Ouango,Albanian,592,3870,3,Fashionistas,1/5/2021
+111304,Zoomcast,Email,Women 35-44,30 days,Email,0.04,Yuan Renminbi,7.54,Chengbei,Bengali,906,7519,5,Health & Wellness,1/28/2021
+141196,Photojam,Search,All Ages,60 days,Youtube,0.13,Ariary,4.87,Antanifotsy,Hiri Motu,622,3646,9,Tech Enthusiasts,1/27/2021
+162834,Youspan,Display,All Ages,45 days,Facebook,0.07,Yuan Renminbi,4.26,Jingzi,West Frisian,836,8927,5,Health & Wellness,1/5/2021
+176173,Dablist,Display,Women 25-34,30 days,Google Ads,0.11,Peso,3.51,San Vicente,Bengali,473,4274,6,Fashionistas,1/26/2021
+128997,Twinder,Display,Men 25-34,30 days,Website,0.07,Yuan Renminbi,4.74,Xiheshan,Georgian,847,7970,7,Health & Wellness,1/2/2021
+185643,Quaxo,Influencer,Women 25-34,45 days,Website,0.03,Hryvnia,5.01,Dzvinogrud,Georgian,849,4752,10,Foodies,1/29/2021
+144171,Jabbercube,Influencer,All Ages,45 days,Email,0.06,Dollar,4.89,Montecristi,Amharic,631,3694,5,Health & Wellness,1/23/2021
+71403,Camimbo,Display,Men 25-34,45 days,Google Ads,0.09,Dollar,7.38,Odzi,Afrikaans,429,6271,10,Foodies,1/26/2021
+154929,Youspan,Search,Women 35-44,45 days,Facebook,0.11,Yuan Renminbi,7.29,Huquan,Luxembourgish,927,3578,4,Health & Wellness,1/11/2021
+117983,Trunyx,Display,Men 25-34,15 days,Facebook,0.09,Won,7.16,Kinzan,Swahili,656,8544,5,Tech Enthusiasts,1/9/2021
+170919,Skipfire,Search,Women 25-34,15 days,Instagram,0.02,Peso,5.71,Victoria,New Zealand Sign Language,994,8519,4,Outdoor Adventurers,1/21/2021
+159932,Kayveo,Influencer,All Ages,15 days,Email,0.1,Kuna,5.12,Runović,Norwegian,469,1764,10,Foodies,1/24/2021
+108884,Trudoo,Email,All Ages,45 days,Website,0.13,Kuna,2.69,Zagreb,Tamil,600,3887,7,Fashionistas,1/25/2021
+174093,Geba,Email,Women 25-34,30 days,Youtube,0.04,Sol,3.61,Colcabamba,Assamese,731,8050,8,Foodies,1/22/2021
+115883,Mudo,Email,Women 35-44,45 days,Instagram,0.13,Dram,4.87,Hovtamej,Gagauz,410,2164,9,Fashionistas,1/6/2021
+143890,Yoveo,Search,Men 18-24,45 days,Facebook,0.09,Ruble,3.76,Mezhevoy,Belarusian,991,7042,8,Outdoor Adventurers,1/15/2021
+109756,Babbleopia,Influencer,Women 35-44,30 days,Google Ads,0.06,Euro,6.31,Puhja,Latvian,458,8199,4,Foodies,1/2/2021
+174913,Zoomcast,Search,All Ages,45 days,Youtube,0.06,Rupiah,7.51,Cimara,Yiddish,652,8826,5,Foodies,1/10/2021
+86023,Aivee,Influencer,All Ages,45 days,Instagram,0.1,Pound,4.18,Kousa,Lao,735,3975,6,Fashionistas,1/7/2021
+118755,Demivee,Influencer,All Ages,60 days,Website,0.13,Rial,2.57,Şaḩam,Mongolian,990,7549,8,Health & Wellness,1/9/2021
+76181,Eire,Display,Women 25-34,30 days,Email,0.1,Real,5.09,Macaé,Pashto,964,5283,4,Outdoor Adventurers,1/4/2021
+100374,Twinder,Influencer,Men 25-34,45 days,Youtube,0.07,Won,5.16,Tongjin,Yiddish,701,6979,3,Tech Enthusiasts,1/17/2021
+114631,Jayo,Influencer,Men 18-24,30 days,Google Ads,0.11,Peso,4.62,Kalbugan,Lao,479,2454,5,Tech Enthusiasts,1/25/2021
+108730,Jabbertype,Email,All Ages,45 days,Youtube,0.07,Yuan Renminbi,7.07,Qingyun,Papiamento,581,7502,3,Tech Enthusiasts,1/2/2021
+98645,Babbleset,Display,Men 25-34,45 days,Instagram,0.05,Yen,4.93,Ono,Punjabi,662,2736,5,Outdoor Adventurers,1/17/2021
+144482,Wikivu,Email,All Ages,15 days,Google Ads,0.06,Dollar,6.0,Victoriaville,Albanian,912,7532,8,Fashionistas,1/19/2021
+104855,Cogilith,Search,All Ages,30 days,Instagram,0.09,Shekel,4.31,Safed,Lao,394,1640,9,Fashionistas,1/28/2021
+93458,Buzzster,Search,Women 35-44,60 days,Youtube,0.12,Ruble,2.71,Vypolzovo,Maltese,473,8979,9,Health & Wellness,1/23/2021
+145683,Photojam,Email,Women 35-44,45 days,Email,0.02,Yuan Renminbi,4.82,Xinpo,Swahili,402,2745,4,Health & Wellness,1/15/2021
+129263,Centidel,Influencer,Men 18-24,60 days,Email,0.05,Balboa,3.91,Los Santos,Swedish,389,7614,5,Fashionistas,1/3/2021
+122762,Skaboo,Email,All Ages,15 days,Website,0.09,Yuan Renminbi,2.83,Wuxia,Haitian Creole,585,6899,9,Fashionistas,1/3/2021
+88103,Eadel,Email,Women 35-44,60 days,Facebook,0.08,Dinar,5.64,Bečej,Zulu,619,4767,7,Foodies,1/21/2021
+112809,Digitube,Search,Men 25-34,30 days,Instagram,0.1,Peso,5.24,Mambusao,Estonian,384,6596,9,Foodies,1/19/2021
+124906,Yombu,Influencer,Women 35-44,60 days,Email,0.12,Peso,6.99,Naga,Burmese,628,8335,9,Health & Wellness,1/10/2021
+131904,Rhyzio,Influencer,Women 35-44,60 days,Youtube,0.09,Koruna,6.9,Prostřední Bečva,Latvian,589,3178,9,Tech Enthusiasts,1/20/2021
+146107,Fivechat,Email,Men 18-24,45 days,Youtube,0.1,Yuan Renminbi,6.45,Xiaozhi,English,766,1896,9,Health & Wellness,1/6/2021
+94061,Skinte,Email,Women 35-44,30 days,Email,0.04,Koruna,4.59,Petrovice u Karviné,Belarusian,659,3633,4,Health & Wellness,1/27/2021
+103405,Chatterpoint,Search,Women 25-34,15 days,Google Ads,0.08,Zloty,5.89,Pęczniew,Telugu,794,2449,7,Fashionistas,1/26/2021
+165479,Youtags,Email,Men 25-34,30 days,Youtube,0.06,Rand,6.97,Ermelo,Kannada,890,6657,6,Outdoor Adventurers,1/24/2021
+150995,Tagtune,Email,Women 35-44,30 days,Instagram,0.13,Krona,6.25,Enköping,German,373,3695,5,Foodies,1/20/2021
+89822,Thoughtworks,Search,Men 25-34,60 days,Google Ads,0.07,Yuan Renminbi,4.43,Jieting,Catalan,906,4215,10,Foodies,1/15/2021
+164359,Jatri,Influencer,Women 25-34,30 days,Website,0.09,Naira,7.52,Wudil,Chinese,396,4252,8,Health & Wellness,1/1/2021
+173523,Geba,Influencer,Men 18-24,30 days,Youtube,0.13,Koruna,2.51,Rousínov,Hiri Motu,769,2860,3,Foodies,1/18/2021
+77071,Pixoboo,Influencer,Men 18-24,15 days,Email,0.11,Guarani,3.37,Tobatí,Bosnian,787,6162,3,Outdoor Adventurers,1/9/2021
+106720,Skibox,Email,Men 18-24,45 days,Youtube,0.07,Tugrik,7.0,Tsenher,New Zealand Sign Language,568,7308,9,Health & Wellness,1/6/2021
+98740,Roomm,Search,Women 25-34,15 days,Facebook,0.04,Yuan Renminbi,6.32,Gubo,Marathi,983,6966,8,Foodies,1/3/2021
+90227,JumpXS,Email,Women 25-34,15 days,Facebook,0.03,Taka,5.51,Sakhipur,Bosnian,433,2150,9,Foodies,1/10/2021
+119505,Edgepulse,Search,Women 25-34,30 days,Facebook,0.11,Dollar,2.61,Shediac,Ndebele,914,6548,3,Tech Enthusiasts,1/25/2021
+175684,Mydeo,Influencer,Women 25-34,30 days,Website,0.13,Koruna,6.38,Bludov,Amharic,993,6884,8,Fashionistas,1/12/2021
+73964,Cogibox,Influencer,Women 35-44,15 days,Website,0.06,Yen,4.97,Kamirenjaku,Oriya,591,7730,6,Fashionistas,1/29/2021
+142552,Nlounge,Email,Women 25-34,15 days,Google Ads,0.13,Cordoba,7.1,Masaya,Malayalam,594,8693,10,Fashionistas,1/29/2021
+134569,Vidoo,Influencer,Women 35-44,30 days,Google Ads,0.07,Peso,5.11,La Carlota,Irish Gaelic,540,7815,4,Fashionistas,1/30/2021
+105073,Fadeo,Influencer,Women 35-44,45 days,Website,0.11,Colon,6.08,San José,Bislama,732,6598,3,Tech Enthusiasts,1/2/2021
+99271,Rhyzio,Search,Women 25-34,15 days,Google Ads,0.05,Rupiah,6.25,Puncaktugu,Hungarian,925,3526,4,Tech Enthusiasts,1/8/2021
+155659,Skinix,Display,Women 35-44,30 days,Facebook,0.1,Won,3.2,Kilju,Italian,583,7455,5,Health & Wellness,1/21/2021
+114892,Talane,Influencer,Women 25-34,30 days,Instagram,0.09,Zloty,5.45,Złoty Stok,Assamese,880,7865,7,Outdoor Adventurers,1/28/2021
+153387,Skimia,Influencer,Men 25-34,30 days,Youtube,0.04,Peso,5.7,Mansilingan,Kashmiri,587,4817,9,Outdoor Adventurers,1/7/2021
+114745,Jaxbean,Influencer,Men 18-24,45 days,Website,0.1,Sol,7.35,La Coipa,Persian,857,3663,10,Fashionistas,1/7/2021
+146423,Skajo,Search,All Ages,30 days,Facebook,0.05,Rial,4.9,Al ‘Ulá,Telugu,812,2048,8,Fashionistas,1/3/2021
+159827,Flashpoint,Influencer,Women 25-34,60 days,Google Ads,0.06,Yuan Renminbi,3.1,Marzhing,Maltese,895,8256,6,Foodies,1/7/2021
+179469,Youspan,Display,Women 35-44,30 days,Email,0.03,Rial,6.15,Al ‘Udayn,New Zealand Sign Language,867,3833,10,Health & Wellness,1/14/2021
+153658,Zoombeat,Display,All Ages,60 days,Email,0.07,Shekel,4.48,Majdal Banī Fāḑil,Tamil,897,6680,8,Outdoor Adventurers,1/15/2021
+71777,Quinu,Display,Women 35-44,30 days,Website,0.05,Yuan Renminbi,3.89,Liuzhi,Hebrew,596,5163,8,Fashionistas,1/7/2021
+177680,Oozz,Influencer,Men 25-34,15 days,Google Ads,0.09,Rupiah,4.33,Bangbayang Kaler,Italian,777,8534,9,Fashionistas,1/7/2021
+108131,BlogXS,Email,Men 18-24,30 days,Website,0.08,Peso,3.46,Villa Regina,Finnish,618,6832,3,Health & Wellness,1/30/2021
+149537,Wikizz,Search,Men 25-34,60 days,Instagram,0.09,Naira,4.16,Tegina,Kashmiri,731,4758,8,Outdoor Adventurers,1/10/2021
